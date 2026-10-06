@@ -20,6 +20,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import train_test_split
@@ -40,15 +41,21 @@ def prep(df: pd.DataFrame):
 
 
 def sklearn_frame(Xtr: pd.DataFrame, Xte: pd.DataFrame):
-    """One-hot + standardize, encoders fit on train only (no leakage)."""
+    """One-hot + impute + standardize, all fit on train only (no leakage).
+
+    Median/mode imputation is the standard competent baseline for messy
+    tables; TabPFN-3.5 instead consumes raw NaN natively (no pipeline).
+    """
     num_cols = Xtr.select_dtypes(exclude=["object"]).columns
     cat_cols = Xtr.select_dtypes(include=["object"]).columns
+    num_imp = SimpleImputer(strategy="median")
+    cat_imp = SimpleImputer(strategy="most_frequent")
     enc = OneHotEncoder(handle_unknown="ignore", sparse_output=False)
     scaler = StandardScaler()
-    Ztr = np.hstack([scaler.fit_transform(Xtr[num_cols].to_numpy(dtype=float)),
-                     enc.fit_transform(Xtr[cat_cols])]).astype(float)
-    Zte = np.hstack([scaler.transform(Xte[num_cols].to_numpy(dtype=float)),
-                     enc.transform(Xte[cat_cols])]).astype(float)
+    Ztr = np.hstack([scaler.fit_transform(num_imp.fit_transform(Xtr[num_cols].astype(float))),
+                     enc.fit_transform(cat_imp.fit_transform(Xtr[cat_cols]))]).astype(float)
+    Zte = np.hstack([scaler.transform(num_imp.transform(Xte[num_cols].astype(float))),
+                     enc.transform(cat_imp.transform(Xte[cat_cols]))]).astype(float)
     return Ztr, Zte
 
 

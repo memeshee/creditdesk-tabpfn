@@ -87,6 +87,13 @@ def generate(n: int = 400, seed: int = 7) -> pd.DataFrame:
             - cashflow / 40000
             + rng.normal(0, 0.35)
         )
+        # Free-text carries signal beyond the sector label: cash-only and
+        # no-deposit businesses are riskier, regulars/deposits safer.
+        # A model that truly reads text picks this up; one-hot cannot.
+        if "cash only" in desc:
+            logit += 0.55
+        if "deposits upfront" in desc or "regulars" in desc:
+            logit -= 0.45
         p = float(_sigmoid(logit))
         default = int(rng.random() < p)
         lgd = float(np.clip(rng.normal(0.62, 0.15), 0.2, 0.95))
@@ -110,6 +117,18 @@ def generate(n: int = 400, seed: int = 7) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def add_missingness(df: pd.DataFrame, seed: int = 7, rate: float = 0.15) -> pd.DataFrame:
+    """Real thin-file ledgers are patchy: knock out MCAR holes in the
+    softest self-reported columns. TabPFN consumes NaN natively; the
+    sklearn baselines use standard median/mode imputation (see benchmark)."""
+    rng = np.random.default_rng(seed + 999)
+    df = df.copy()
+    for col in ["avg_monthly_cashflow_usd", "debt_to_income", "late_payments_12m"]:
+        mask = rng.random(len(df)) < rate
+        df.loc[mask, col] = np.nan
+    return df
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--n", type=int, default=400)
@@ -117,5 +136,6 @@ if __name__ == "__main__":
     ap.add_argument("--out", default="data/portfolio.csv")
     args = ap.parse_args()
     df = generate(args.n, args.seed)
+    df = add_missingness(df, seed=args.seed)
     df.to_csv(args.out, index=False)
     print(f"wrote {args.out}: {len(df)} rows, default rate {df['default'].mean():.3f}")
