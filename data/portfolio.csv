@@ -1,801 +1,401 @@
 business_description,sector,region,annual_revenue_usd,years_in_business,debt_to_income,late_payments_12m,avg_monthly_cashflow_usd,employees,requested_loan_usd,default,expected_loss_usd
-"cabinet maker, deposits upfront",furniture workshop,central,44966.86,4,0.402,1.0,4754.81,3,25558.85,0,2603.32
-barbershop plus kids cuts,hair salon,highlands,33397.82,3,0.787,1.0,2495.18,1,20810.1,0,4527.78
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,4888.21,6,,,369.27,2,2738.36,1,208.9
-"wooden furniture workshop, custom orders",furniture workshop,north,8730.67,0,0.438,0.0,588.49,4,4830.25,0,806.69
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,37335.7,6,0.411,,3359.94,3,24656.73,0,4758.06
-mini mart near school gate,corner grocery,south,59510.87,4,0.178,3.0,2802.64,1,25588.73,0,1707.03
-"corner grocery, rice cooking oil snacks",corner grocery,north,16490.91,8,0.511,1.0,1643.54,2,5828.34,0,446.29
-roadside bike puncture and oil change point,motorbike repair shop,highlands,46034.12,6,0.102,2.0,3419.18,1,28046.0,1,2311.61
-"noodle cart near bus station, cash only",street food stall,central,46042.43,12,0.35,1.0,3756.38,2,22608.61,0,4081.49
-"tailor shop, school uniforms and alterations",tailor shop,central,19448.16,12,,0.0,1265.15,2,4648.22,0,128.56
-"sewing shop with 3 machines, regulars",tailor shop,central,17769.69,13,0.313,,934.84,2,10055.6,0,299.49
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,15717.88,13,0.383,0.0,718.49,1,7038.67,0,126.65
-"cabinet maker, deposits upfront",furniture workshop,north,4917.99,2,,2.0,,2,2656.83,1,913.15
-"noodle cart near bus station, cash only",street food stall,north,27154.23,2,0.686,0.0,2597.42,7,9998.78,1,2771.65
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,32261.19,10,,2.0,1395.3,1,24299.06,0,2683.59
-"corner grocery, rice cooking oil snacks",corner grocery,central,5030.55,2,0.436,1.0,,3,3825.7,0,611.55
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,1834.31,12,0.419,0.0,136.82,1,1186.89,0,62.83
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,49732.45,10,0.41,,4361.66,2,38587.09,0,3494.84
-"noodle cart near bus station, cash only",street food stall,highlands,12160.81,4,0.069,1.0,683.99,0,3967.09,1,749.93
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,26449.56,5,0.619,1.0,1886.85,0,6114.3,0,1160.47
-"corner grocery, rice cooking oil snacks",corner grocery,central,65441.44,0,1.01,1.0,,2,44383.55,1,10263.51
-"tailor shop, school uniforms and alterations",tailor shop,north,40042.0,6,0.415,0.0,1580.67,4,20871.08,0,1398.93
-"sewing shop with 3 machines, regulars",tailor shop,highlands,41326.76,8,,1.0,3296.67,1,25907.61,0,748.55
-"sewing shop with 3 machines, regulars",tailor shop,south,34322.48,6,0.323,0.0,3249.47,1,10715.05,0,342.96
-barbershop plus kids cuts,hair salon,south,40660.45,0,0.365,2.0,1877.67,3,15444.78,0,2732.75
-"tailor shop, school uniforms and alterations",tailor shop,central,9840.87,3,0.325,0.0,971.08,1,5709.09,0,515.96
-"wooden furniture workshop, custom orders",furniture workshop,central,12677.37,4,0.029,0.0,,2,4630.05,0,221.43
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,23898.32,12,0.429,3.0,1046.69,3,14650.52,1,2865.44
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,23700.92,10,,0.0,,2,12977.38,0,400.82
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,12085.18,6,0.22,1.0,1139.6,4,5370.77,0,407.25
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,12309.03,14,,1.0,809.86,1,6362.85,0,191.03
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,5930.26,7,0.385,2.0,480.68,1,3576.76,1,739.44
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,36144.86,0,0.269,1.0,2857.24,1,7301.95,1,1586.77
-"cabinet maker, deposits upfront",furniture workshop,highlands,9117.83,2,0.331,3.0,660.33,3,1393.06,0,259.9
-mini mart near school gate,corner grocery,south,10687.5,3,0.812,0.0,1099.23,1,1668.74,0,373.37
-mini mart near school gate,corner grocery,north,20383.08,13,0.753,0.0,1014.52,0,4729.01,0,222.93
-barbershop plus kids cuts,hair salon,highlands,8166.5,13,0.667,,759.71,3,4323.07,0,228.87
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,17131.4,3,0.417,0.0,736.9,4,2962.81,0,697.83
-"sewing shop with 3 machines, regulars",tailor shop,south,18061.45,12,0.635,1.0,1201.75,2,13235.82,0,693.41
-"cabinet maker, deposits upfront",furniture workshop,north,22719.64,1,0.32,2.0,,4,5648.52,0,710.75
-mobile top-up and accessories stand,phone accessories kiosk,central,12375.45,10,0.175,1.0,1060.82,1,6192.35,0,275.59
-roadside bike puncture and oil change point,motorbike repair shop,central,30282.65,8,0.316,2.0,,2,23440.37,0,5887.49
-mini mart near school gate,corner grocery,central,45540.91,4,0.37,2.0,4680.4,0,22870.63,0,3566.4
-roadside bike puncture and oil change point,motorbike repair shop,south,20510.94,6,0.02,5.0,2176.11,3,10026.76,0,3678.72
-mini mart near school gate,corner grocery,highlands,20228.3,1,0.593,1.0,694.4,1,10704.06,0,1782.01
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,30385.51,5,0.345,2.0,2650.63,2,14535.07,0,1879.51
-"grilled skewers stand, weekend crowds",street food stall,south,2988.39,2,0.543,2.0,135.79,1,1599.04,1,456.98
-"noodle cart near bus station, cash only",street food stall,south,39539.77,6,0.525,2.0,3879.76,2,20414.7,0,7507.35
-mobile top-up and accessories stand,phone accessories kiosk,highlands,3692.92,14,0.376,,300.25,4,2760.8,0,178.44
-"street food stall at night market, 2 tables",street food stall,highlands,48779.83,13,,2.0,3444.38,0,24720.69,0,3548.17
-roadside bike puncture and oil change point,motorbike repair shop,central,48104.06,9,0.739,1.0,1624.75,2,27617.9,0,5269.53
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,18152.2,14,0.02,,1304.07,3,3418.97,0,122.94
-"wooden furniture workshop, custom orders",furniture workshop,highlands,210426.72,11,0.646,3.0,18306.63,1,60000.0,0,8703.71
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,56186.5,6,0.576,3.0,3094.33,0,25311.98,0,6926.05
-"corner grocery, rice cooking oil snacks",corner grocery,north,25412.17,6,0.271,2.0,1624.87,5,8478.13,0,1191.89
-"cabinet maker, deposits upfront",furniture workshop,south,70665.57,8,0.539,1.0,7470.74,2,51281.18,1,3709.79
-mini mart near school gate,corner grocery,highlands,19716.04,3,0.409,2.0,1363.04,2,14675.36,1,2730.76
-barbershop plus kids cuts,hair salon,highlands,12896.91,1,,1.0,1118.48,4,1940.04,0,163.64
-mobile top-up and accessories stand,phone accessories kiosk,south,13437.91,0,0.507,4.0,,1,10713.09,1,4265.48
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,15786.14,5,0.305,1.0,676.05,2,11500.99,0,1551.89
-"sewing shop with 3 machines, regulars",tailor shop,highlands,106437.78,1,0.442,,5437.1,1,19428.24,1,4419.98
-mobile top-up and accessories stand,phone accessories kiosk,south,28422.71,10,0.746,2.0,2455.4,1,18575.42,0,3375.85
-mobile top-up and accessories stand,phone accessories kiosk,central,80713.96,9,0.617,2.0,5191.31,2,19896.26,1,3065.85
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,136493.06,1,0.142,2.0,9090.47,2,60000.0,0,10706.22
-"wooden furniture workshop, custom orders",furniture workshop,highlands,11627.1,13,0.796,1.0,981.85,1,7857.77,0,894.02
-"grilled skewers stand, weekend crowds",street food stall,south,77423.34,4,0.715,2.0,6795.77,3,38912.77,0,16963.18
-"street food stall at night market, 2 tables",street food stall,north,23752.63,0,0.494,2.0,1661.61,4,8895.4,1,4718.92
-roadside bike puncture and oil change point,motorbike repair shop,central,25925.98,0,0.261,1.0,2141.51,2,14341.58,0,1952.04
-"wooden furniture workshop, custom orders",furniture workshop,central,250408.57,5,0.629,,21743.19,3,60000.0,0,6363.79
-barbershop plus kids cuts,hair salon,central,23251.63,13,0.123,,1421.03,3,3823.82,0,501.21
-"wooden furniture workshop, custom orders",furniture workshop,north,29760.06,3,,1.0,1891.27,2,9000.6,0,1620.0
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,3209.14,1,0.638,5.0,268.82,2,805.67,1,479.22
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,9685.04,12,0.817,2.0,390.04,2,6900.9,0,1450.61
-"sewing shop with 3 machines, regulars",tailor shop,south,70732.59,6,0.752,,7601.21,1,53816.79,0,5748.88
-mobile top-up and accessories stand,phone accessories kiosk,south,9810.5,9,0.163,0.0,403.3,3,6068.55,0,225.13
-"grilled skewers stand, weekend crowds",street food stall,highlands,28297.58,14,,0.0,1159.29,2,17399.27,0,439.11
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,9412.72,8,0.637,2.0,663.06,1,2929.94,0,770.13
-"corner grocery, rice cooking oil snacks",corner grocery,central,25614.29,3,0.476,1.0,1663.43,1,8446.92,0,1772.99
-"hair salon, 4 chairs, walk-ins",hair salon,north,7122.24,10,0.782,1.0,,2,4785.92,0,512.41
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,28364.72,14,,1.0,951.43,2,22519.15,0,1645.46
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,42965.61,9,0.35,,2038.54,4,8204.99,1,1602.89
-"tailor shop, school uniforms and alterations",tailor shop,central,43804.37,5,0.282,0.0,,3,22012.05,0,1385.15
-"cabinet maker, deposits upfront",furniture workshop,south,15818.26,4,,1.0,1545.37,5,5821.22,0,668.21
-"wooden furniture workshop, custom orders",furniture workshop,central,14949.92,9,0.336,,916.17,0,10336.68,1,1971.33
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,83415.74,4,,2.0,6715.86,2,40323.69,1,9601.4
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,7724.71,11,0.637,1.0,,3,5151.75,0,915.47
-"wooden furniture workshop, custom orders",furniture workshop,south,157626.16,11,,2.0,13520.75,1,60000.0,0,3803.14
-"corner grocery, rice cooking oil snacks",corner grocery,north,15845.05,5,0.476,1.0,757.96,2,7926.75,0,970.67
-barbershop plus kids cuts,hair salon,south,58068.29,10,0.02,2.0,6056.21,2,28253.14,0,1110.33
-barbershop plus kids cuts,hair salon,central,29609.37,10,0.433,0.0,1014.54,3,5469.28,0,178.99
-"street food stall at night market, 2 tables",street food stall,south,155980.42,6,0.348,4.0,7885.3,3,25784.43,1,4331.83
-barbershop plus kids cuts,hair salon,north,48599.07,7,0.34,1.0,4680.6,2,35143.03,0,1822.16
-mobile top-up and accessories stand,phone accessories kiosk,north,63669.25,3,,2.0,4333.75,2,16209.41,0,1262.96
-"noodle cart near bus station, cash only",street food stall,north,34358.76,1,0.285,1.0,,4,14756.92,1,2430.1
-roadside bike puncture and oil change point,motorbike repair shop,highlands,14220.98,14,0.254,2.0,1473.36,2,3085.27,0,131.32
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,16964.8,13,0.122,0.0,1140.36,0,13136.64,0,251.08
-barbershop plus kids cuts,hair salon,central,2587.72,0,0.618,,240.91,4,1974.08,1,1088.86
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,11673.8,13,0.743,2.0,560.96,0,4350.08,1,566.41
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,23518.9,14,0.29,1.0,2421.4,2,14132.53,0,558.62
-mini mart near school gate,corner grocery,north,15631.22,5,,3.0,850.21,3,11947.2,0,1481.57
-"hair salon, 4 chairs, walk-ins",hair salon,south,11464.74,10,0.373,3.0,830.62,1,7082.83,1,573.05
-"tailor shop, school uniforms and alterations",tailor shop,central,115720.28,8,0.512,,11100.9,3,60000.0,0,9675.98
-barbershop plus kids cuts,hair salon,north,30455.4,4,0.246,1.0,3279.81,1,15089.67,0,1537.11
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,3502.07,0,,0.0,332.76,5,1459.04,1,361.46
-"noodle cart near bus station, cash only",street food stall,highlands,89603.98,4,,2.0,,3,60000.0,1,27867.6
-"noodle cart near bus station, cash only",street food stall,highlands,13877.39,4,,3.0,1011.71,4,7237.7,0,3655.12
-"hair salon, 4 chairs, walk-ins",hair salon,south,11756.42,11,0.601,3.0,803.95,1,5496.13,1,1323.55
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,78283.13,1,0.653,3.0,,4,58357.6,1,24783.81
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,133567.16,4,0.782,0.0,12007.8,1,60000.0,0,14846.36
-"tailor shop, school uniforms and alterations",tailor shop,central,145537.65,9,0.624,,,1,60000.0,0,3258.8
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,20081.66,13,0.363,2.0,1462.67,4,3254.33,0,214.82
-roadside bike puncture and oil change point,motorbike repair shop,north,19024.27,9,0.388,3.0,948.29,1,3657.69,0,715.46
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,12394.24,10,0.325,2.0,499.34,2,2217.57,0,170.14
-mini mart near school gate,corner grocery,south,106025.98,6,0.174,2.0,8340.81,1,25083.01,0,1332.42
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,24019.36,1,0.02,1.0,1179.03,1,4211.83,0,391.22
-mobile top-up and accessories stand,phone accessories kiosk,north,14036.55,3,0.253,,1295.32,1,2740.02,0,702.58
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,8582.08,12,0.694,0.0,701.67,0,5562.28,0,343.89
-"wooden furniture workshop, custom orders",furniture workshop,north,51297.53,5,0.163,,2747.97,1,11228.72,0,1006.11
-mobile top-up and accessories stand,phone accessories kiosk,highlands,11166.92,5,0.475,2.0,1133.3,5,8040.08,0,2202.52
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,6361.76,10,0.58,2.0,462.63,4,3030.08,1,373.59
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,6574.95,11,0.839,3.0,464.1,2,1364.73,0,262.56
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,145088.66,14,,2.0,6469.48,2,46143.67,0,1759.4
-mobile top-up and accessories stand,phone accessories kiosk,central,22575.13,3,,2.0,2175.31,5,5217.19,0,943.42
-barbershop plus kids cuts,hair salon,south,5363.04,14,0.488,0.0,565.16,4,1140.81,0,23.95
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,39296.54,13,0.772,3.0,3846.85,5,28911.01,0,8724.15
-barbershop plus kids cuts,hair salon,north,86274.04,11,0.664,1.0,3513.12,2,40007.79,1,1923.53
-"cabinet maker, deposits upfront",furniture workshop,highlands,5847.45,13,0.808,0.0,530.04,1,4384.84,0,148.32
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,17318.88,13,0.49,1.0,1481.7,2,5939.67,0,299.88
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,77676.43,0,,2.0,6481.07,6,59294.94,0,14939.88
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,125034.37,6,,0.0,5947.56,1,49858.92,0,3067.51
-"tailor shop, school uniforms and alterations",tailor shop,north,170974.77,5,0.695,2.0,14224.2,3,60000.0,1,10457.01
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,11666.61,11,0.922,2.0,821.11,0,7667.7,1,2381.9
-"street food stall at night market, 2 tables",street food stall,highlands,81344.6,10,0.804,2.0,8716.92,0,27609.22,0,6742.58
-mobile top-up and accessories stand,phone accessories kiosk,north,9045.78,14,0.214,1.0,524.4,3,5498.47,0,124.8
-mini mart near school gate,corner grocery,south,31153.34,7,0.384,,2817.1,1,23926.68,0,3713.65
-"grilled skewers stand, weekend crowds",street food stall,south,15148.85,8,0.337,1.0,520.4,5,10609.94,0,1304.07
-mobile top-up and accessories stand,phone accessories kiosk,central,26153.11,0,0.494,,2585.07,0,16846.74,1,4994.72
-"wooden furniture workshop, custom orders",furniture workshop,central,28149.78,2,0.405,3.0,2430.64,2,6604.14,1,2588.32
-"cabinet maker, deposits upfront",furniture workshop,highlands,11996.42,13,0.255,0.0,718.62,6,4840.39,0,58.21
-roadside bike puncture and oil change point,motorbike repair shop,highlands,31302.22,13,0.157,1.0,1599.89,3,16795.17,0,420.21
-"street food stall at night market, 2 tables",street food stall,north,18760.73,6,0.692,3.0,963.47,4,9722.05,1,3653.79
-"hair salon, 4 chairs, walk-ins",hair salon,south,23660.02,6,,1.0,1576.49,1,9841.97,0,1639.19
-"grilled skewers stand, weekend crowds",street food stall,highlands,5780.27,11,0.677,2.0,,3,3002.72,0,817.18
-"sewing shop with 3 machines, regulars",tailor shop,highlands,11189.84,13,0.595,1.0,,2,7095.32,1,361.53
-mobile top-up and accessories stand,phone accessories kiosk,central,16757.18,7,,2.0,,4,3209.06,0,637.38
-"corner grocery, rice cooking oil snacks",corner grocery,south,44218.71,7,0.627,1.0,3097.89,1,21223.52,0,2593.14
-"noodle cart near bus station, cash only",street food stall,north,10879.24,9,0.02,,669.68,3,7710.61,0,1046.59
-barbershop plus kids cuts,hair salon,north,32057.47,5,0.27,1.0,2787.23,3,25439.92,0,2272.58
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,10865.3,1,0.311,2.0,1088.78,4,6532.96,1,2200.37
-roadside bike puncture and oil change point,motorbike repair shop,highlands,35139.15,3,0.686,0.0,,6,8511.45,1,2021.29
-"corner grocery, rice cooking oil snacks",corner grocery,south,35966.59,12,0.35,1.0,2869.78,2,23270.03,0,1203.33
-mini mart near school gate,corner grocery,south,13186.55,5,0.559,2.0,1350.78,5,9686.5,1,1218.27
-mobile top-up and accessories stand,phone accessories kiosk,north,23470.46,9,0.731,1.0,946.99,0,8465.13,0,1693.55
-"cabinet maker, deposits upfront",furniture workshop,highlands,6588.41,12,0.258,0.0,409.43,3,1246.26,0,20.76
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,14784.31,14,0.41,1.0,1067.68,2,3685.88,0,240.31
-"wooden furniture workshop, custom orders",furniture workshop,south,71233.72,6,0.374,2.0,7431.84,1,10796.89,0,1693.76
-"cabinet maker, deposits upfront",furniture workshop,south,31282.35,6,0.117,0.0,1669.1,1,14378.69,0,222.46
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,26884.89,9,,0.0,973.3,2,14455.32,0,2259.76
-"sewing shop with 3 machines, regulars",tailor shop,central,31725.73,6,0.477,2.0,3163.09,3,16791.57,0,2106.77
-roadside bike puncture and oil change point,motorbike repair shop,south,57964.31,11,0.073,,2415.99,1,20362.38,0,949.17
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,41867.0,9,0.591,,1651.57,2,13363.78,0,4204.0
-roadside bike puncture and oil change point,motorbike repair shop,central,34686.74,9,0.712,3.0,,5,15895.03,1,4720.83
-"corner grocery, rice cooking oil snacks",corner grocery,north,45590.67,10,,,2674.59,1,11626.89,0,2600.35
-"wooden furniture workshop, custom orders",furniture workshop,north,33101.26,2,0.706,0.0,2791.99,1,10265.31,1,1996.54
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,4087.67,8,0.255,2.0,,5,2421.57,0,471.29
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,7473.96,1,0.49,3.0,673.43,3,1398.01,1,359.83
-"noodle cart near bus station, cash only",street food stall,north,35926.93,12,0.365,2.0,,3,19103.38,1,2771.51
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,30315.54,9,0.506,1.0,1245.07,4,11239.57,0,1134.4
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,18057.0,12,0.195,1.0,1322.05,0,10021.41,0,333.32
-"wooden furniture workshop, custom orders",furniture workshop,south,17507.55,9,0.6,3.0,,6,7766.13,1,1160.47
-"cabinet maker, deposits upfront",furniture workshop,south,60667.02,0,0.333,0.0,,2,40726.93,1,4755.98
-"hair salon, 4 chairs, walk-ins",hair salon,north,89761.51,10,0.02,,,1,29441.82,0,656.34
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,45885.57,5,0.241,,,3,9118.55,0,962.69
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,61060.73,9,0.715,1.0,6594.28,2,39623.93,0,7484.59
-"street food stall at night market, 2 tables",street food stall,highlands,52893.02,6,0.536,0.0,3417.09,0,23027.6,1,5017.76
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,83146.12,4,,3.0,,1,16001.36,0,4493.1
-"cabinet maker, deposits upfront",furniture workshop,highlands,108365.63,2,0.54,3.0,,0,52904.6,1,12771.92
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,43110.51,13,0.295,0.0,3825.16,4,34382.4,0,1097.87
-roadside bike puncture and oil change point,motorbike repair shop,highlands,9811.13,7,,2.0,963.54,1,2246.99,1,616.49
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,10948.92,4,0.469,1.0,1116.53,0,3450.86,0,699.9
-"hair salon, 4 chairs, walk-ins",hair salon,central,37011.3,1,0.684,2.0,1262.2,4,22843.62,0,10527.69
-"grilled skewers stand, weekend crowds",street food stall,central,15521.21,13,0.335,3.0,1211.93,1,6140.3,0,449.03
-"cabinet maker, deposits upfront",furniture workshop,south,30602.85,2,0.446,0.0,,2,13950.19,0,1331.74
-"wooden furniture workshop, custom orders",furniture workshop,central,52230.81,14,0.139,2.0,,2,36224.33,0,885.15
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,28424.54,11,0.6,4.0,969.69,3,22614.14,1,8231.63
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,8030.9,12,0.254,,816.13,2,4494.04,1,214.42
-mini mart near school gate,corner grocery,highlands,6296.34,2,0.375,4.0,552.94,3,1853.64,0,679.39
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,25388.86,5,0.345,0.0,948.85,0,18526.16,0,3072.59
-mobile top-up and accessories stand,phone accessories kiosk,central,6332.61,6,0.725,1.0,212.01,2,2439.34,0,475.67
-"sewing shop with 3 machines, regulars",tailor shop,central,8533.49,7,0.99,3.0,870.4,0,2525.49,1,906.03
-mobile top-up and accessories stand,phone accessories kiosk,north,45893.06,8,0.199,0.0,,1,26051.97,0,1276.66
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,142366.89,6,1.248,,7345.89,2,57079.32,1,36081.86
-"grilled skewers stand, weekend crowds",street food stall,north,42211.54,13,0.02,2.0,4199.31,4,26980.54,0,1386.3
-"street food stall at night market, 2 tables",street food stall,north,41697.67,12,0.341,2.0,,1,11290.08,0,999.89
-"hair salon, 4 chairs, walk-ins",hair salon,central,42047.35,9,0.64,2.0,2354.37,6,12531.11,0,1834.44
-"tailor shop, school uniforms and alterations",tailor shop,highlands,54281.26,13,0.531,,4479.1,0,42217.44,0,1905.25
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,8936.85,12,,3.0,439.42,2,3428.73,0,419.43
-"street food stall at night market, 2 tables",street food stall,central,129844.98,8,0.399,3.0,12799.74,1,60000.0,0,9321.65
-"cabinet maker, deposits upfront",furniture workshop,central,21405.41,14,0.866,1.0,732.96,3,9801.34,0,604.71
-"street food stall at night market, 2 tables",street food stall,highlands,5973.51,8,0.465,3.0,571.32,2,917.47,1,352.77
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,49413.0,7,0.566,2.0,4070.8,1,7594.7,0,1663.92
-"cabinet maker, deposits upfront",furniture workshop,central,39557.72,4,0.212,1.0,3714.84,1,16578.77,0,1497.75
-"grilled skewers stand, weekend crowds",street food stall,central,12204.78,6,0.226,1.0,,2,2561.97,1,420.42
-"hair salon, 4 chairs, walk-ins",hair salon,central,14594.97,6,0.369,1.0,1410.18,0,9218.36,0,758.56
-"hair salon, 4 chairs, walk-ins",hair salon,north,20524.94,2,0.348,2.0,,3,11431.45,0,3313.27
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,12512.3,8,0.431,,,2,7908.38,0,817.96
-"noodle cart near bus station, cash only",street food stall,highlands,11865.85,13,0.814,1.0,482.81,6,8341.63,0,1598.92
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,14956.86,0,0.883,2.0,1321.01,2,2618.35,1,1347.72
-mobile top-up and accessories stand,phone accessories kiosk,north,24234.77,5,0.407,0.0,809.44,3,7908.2,0,810.89
-mini mart near school gate,corner grocery,highlands,35288.99,6,0.872,0.0,2879.25,3,23860.02,1,2427.31
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,31154.26,9,1.05,1.0,3218.35,4,13182.6,0,3553.7
-"sewing shop with 3 machines, regulars",tailor shop,south,29095.11,5,0.416,2.0,2953.55,2,5227.72,0,669.0
-"grilled skewers stand, weekend crowds",street food stall,highlands,17988.74,9,,3.0,784.74,2,8332.0,0,2367.46
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,51095.91,0,0.531,2.0,3837.83,3,12223.01,0,4446.9
-"sewing shop with 3 machines, regulars",tailor shop,central,18637.97,4,0.685,1.0,,1,6089.41,0,1226.51
-barbershop plus kids cuts,hair salon,south,8085.14,8,0.426,0.0,794.78,1,5987.45,0,282.88
-"corner grocery, rice cooking oil snacks",corner grocery,south,9607.85,11,0.055,1.0,794.21,1,7324.75,0,117.86
-"tailor shop, school uniforms and alterations",tailor shop,north,82859.22,2,0.02,0.0,8113.67,3,39893.08,0,1563.38
-"wooden furniture workshop, custom orders",furniture workshop,north,10586.47,10,0.378,0.0,1098.46,1,4225.27,0,271.71
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,34705.71,2,,1.0,1375.48,2,24152.42,1,9838.89
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,6907.36,12,0.709,2.0,638.85,1,3791.88,0,987.2
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,30323.73,9,0.537,4.0,,0,22928.72,0,5380.16
-mini mart near school gate,corner grocery,central,9743.89,1,,,390.0,2,3364.35,0,408.15
-"wooden furniture workshop, custom orders",furniture workshop,central,127358.69,13,0.567,3.0,6126.61,4,60000.0,0,10804.21
-"wooden furniture workshop, custom orders",furniture workshop,central,7698.64,12,0.469,2.0,419.49,2,3076.33,0,233.87
-roadside bike puncture and oil change point,motorbike repair shop,highlands,41892.91,11,0.481,1.0,3584.96,3,23608.94,1,3164.48
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,6284.14,3,0.306,0.0,578.36,2,1487.12,0,196.75
-"wooden furniture workshop, custom orders",furniture workshop,highlands,34254.48,7,0.258,0.0,3607.63,1,16861.19,0,974.17
-"sewing shop with 3 machines, regulars",tailor shop,north,70209.33,9,0.41,1.0,3877.66,3,40142.19,0,1354.52
-"grilled skewers stand, weekend crowds",street food stall,central,35508.5,11,0.378,4.0,2523.59,1,17846.97,1,1636.13
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,4936.06,4,0.342,2.0,382.68,0,3791.63,0,1054.53
-"corner grocery, rice cooking oil snacks",corner grocery,south,18469.32,14,,0.0,1227.52,1,5121.65,0,154.89
-"hair salon, 4 chairs, walk-ins",hair salon,south,49985.83,5,0.579,0.0,5405.79,2,10719.07,0,1317.92
-"corner grocery, rice cooking oil snacks",corner grocery,north,12558.68,0,0.813,1.0,1128.64,0,9445.8,1,4850.84
-barbershop plus kids cuts,hair salon,south,83825.65,4,0.355,1.0,,5,13344.42,0,937.86
-roadside bike puncture and oil change point,motorbike repair shop,south,221479.36,5,0.33,2.0,11329.17,2,60000.0,0,12587.36
-"corner grocery, rice cooking oil snacks",corner grocery,central,12397.83,12,,1.0,1299.62,3,9782.36,1,348.88
-mobile top-up and accessories stand,phone accessories kiosk,central,11767.9,8,0.834,1.0,747.48,5,3400.89,1,1041.49
-"corner grocery, rice cooking oil snacks",corner grocery,south,47001.35,2,0.053,,2722.31,1,12649.32,0,1531.46
-"corner grocery, rice cooking oil snacks",corner grocery,central,10750.12,6,0.452,,1024.48,1,4017.99,0,635.48
-"cabinet maker, deposits upfront",furniture workshop,central,15738.49,5,0.184,,,1,4510.81,0,242.96
-"noodle cart near bus station, cash only",street food stall,north,15246.58,6,0.346,1.0,1242.48,0,7748.03,0,769.73
-mini mart near school gate,corner grocery,highlands,20899.82,9,0.691,0.0,1126.02,1,9080.29,0,423.92
-barbershop plus kids cuts,hair salon,highlands,13617.63,3,0.606,0.0,922.93,0,7396.71,0,1235.83
-mobile top-up and accessories stand,phone accessories kiosk,north,99548.19,12,0.56,1.0,7743.99,1,15957.56,1,799.04
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,58512.86,0,0.333,3.0,4202.93,3,26926.22,1,9316.56
-"wooden furniture workshop, custom orders",furniture workshop,highlands,27182.28,11,0.589,0.0,925.96,1,15805.58,0,1005.0
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,64334.28,9,0.749,1.0,,1,16462.14,0,2180.01
-"grilled skewers stand, weekend crowds",street food stall,highlands,4914.55,2,,0.0,169.23,2,2994.4,0,479.11
-barbershop plus kids cuts,hair salon,north,6098.11,9,0.423,1.0,380.1,1,3272.45,0,259.52
-roadside bike puncture and oil change point,motorbike repair shop,central,16778.15,13,0.323,2.0,908.34,0,11339.0,0,630.73
-roadside bike puncture and oil change point,motorbike repair shop,south,19336.09,6,0.658,1.0,1185.15,3,6461.2,1,876.92
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,18155.2,3,0.497,1.0,1380.53,1,5084.09,1,870.14
-roadside bike puncture and oil change point,motorbike repair shop,south,4348.12,10,0.165,2.0,251.31,3,1070.75,0,94.44
-"wooden furniture workshop, custom orders",furniture workshop,highlands,50236.71,3,0.119,1.0,2504.59,3,32113.76,0,4751.28
-"sewing shop with 3 machines, regulars",tailor shop,north,40287.94,10,0.456,1.0,,1,29043.32,0,1534.1
-"street food stall at night market, 2 tables",street food stall,north,41896.09,7,,,,1,28937.45,1,7879.1
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,95452.62,12,0.426,1.0,6441.91,3,48204.89,0,2981.13
-mobile top-up and accessories stand,phone accessories kiosk,south,7418.46,14,0.331,2.0,496.2,0,2186.48,0,97.27
-"sewing shop with 3 machines, regulars",tailor shop,central,25591.54,10,0.493,0.0,1978.43,1,10895.82,1,184.54
-"tailor shop, school uniforms and alterations",tailor shop,north,28553.4,13,0.4,2.0,1480.98,1,4815.18,0,182.0
-"cabinet maker, deposits upfront",furniture workshop,central,16764.52,7,0.54,1.0,,3,8263.98,0,826.83
-"corner grocery, rice cooking oil snacks",corner grocery,north,26537.04,0,0.524,,1971.87,2,16116.92,0,3725.4
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,11108.99,10,0.516,0.0,593.78,1,6645.17,0,812.85
-"cabinet maker, deposits upfront",furniture workshop,highlands,15037.04,3,0.476,1.0,704.97,3,8018.78,1,1458.61
-"tailor shop, school uniforms and alterations",tailor shop,highlands,13710.65,14,0.791,3.0,1042.13,1,3891.19,1,850.98
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,21735.83,10,0.156,1.0,1848.3,2,15512.69,0,534.22
-"tailor shop, school uniforms and alterations",tailor shop,north,41082.51,1,0.885,2.0,3952.41,1,20806.36,1,12680.54
-"grilled skewers stand, weekend crowds",street food stall,north,10464.81,7,0.481,3.0,694.79,2,1660.82,1,729.21
-"cabinet maker, deposits upfront",furniture workshop,central,114184.63,14,,3.0,9165.59,1,60000.0,0,9133.82
-roadside bike puncture and oil change point,motorbike repair shop,highlands,33186.25,13,,0.0,2003.62,1,24275.97,0,1185.3
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,3404.38,3,0.103,1.0,,1,1137.38,0,158.55
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,18771.63,9,0.814,,1329.99,1,11784.45,0,3419.75
-"wooden furniture workshop, custom orders",furniture workshop,north,16152.38,1,0.549,3.0,1518.93,2,11795.65,1,4619.62
-roadside bike puncture and oil change point,motorbike repair shop,north,34107.65,10,0.335,1.0,2485.49,2,8293.33,0,479.52
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,53303.1,9,,3.0,3785.96,2,22030.45,0,2316.78
-"cabinet maker, deposits upfront",furniture workshop,central,15406.17,3,0.414,,1455.35,1,9717.37,0,1403.78
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,47340.87,14,0.254,4.0,3577.55,0,20364.23,0,2096.89
-"cabinet maker, deposits upfront",furniture workshop,north,11597.83,5,0.128,,1244.38,3,4142.1,1,213.68
-"wooden furniture workshop, custom orders",furniture workshop,highlands,34528.03,5,0.457,,1502.01,2,14823.34,0,2850.53
-mini mart near school gate,corner grocery,highlands,8510.63,9,0.334,3.0,459.79,1,5613.62,0,551.64
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,18129.18,0,,0.0,1703.17,2,3129.56,0,668.78
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,6655.46,7,0.425,0.0,396.26,2,2770.68,0,260.24
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,18284.46,6,,,719.3,0,4236.17,1,1327.36
-mini mart near school gate,corner grocery,central,27992.66,12,0.794,1.0,2108.93,2,15972.7,0,851.87
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,5959.27,13,0.792,,485.23,2,1207.87,0,256.92
-"wooden furniture workshop, custom orders",furniture workshop,north,28195.99,4,0.422,,1328.89,1,12408.58,1,929.37
-"cabinet maker, deposits upfront",furniture workshop,north,10310.4,0,,1.0,493.84,2,5159.27,0,654.66
-"sewing shop with 3 machines, regulars",tailor shop,highlands,42538.27,3,0.491,4.0,4442.52,1,19062.74,0,5892.24
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,7044.26,14,,3.0,311.08,2,5291.78,0,878.22
-barbershop plus kids cuts,hair salon,central,24682.89,8,0.144,1.0,1309.45,3,14809.72,0,486.03
-"wooden furniture workshop, custom orders",furniture workshop,central,29756.37,5,0.377,1.0,,1,10965.13,0,1898.05
-"grilled skewers stand, weekend crowds",street food stall,highlands,27108.6,13,,1.0,1112.29,4,14414.4,0,692.57
-"noodle cart near bus station, cash only",street food stall,highlands,3127.9,1,,0.0,301.83,4,1582.94,0,250.15
-roadside bike puncture and oil change point,motorbike repair shop,highlands,16993.52,14,0.445,2.0,1243.52,6,9558.87,0,947.89
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,9010.59,0,0.436,3.0,662.18,4,5357.26,1,1860.05
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,26400.28,11,,3.0,1058.42,4,17979.38,0,1852.4
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,15060.59,9,0.02,4.0,903.53,4,3443.35,0,524.25
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,28668.97,0,0.02,1.0,1064.34,1,8149.83,0,807.26
-"wooden furniture workshop, custom orders",furniture workshop,north,36377.83,1,0.487,2.0,3222.89,2,12476.98,1,6380.1
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,33371.55,3,0.02,0.0,1599.29,3,13796.4,0,707.48
-"tailor shop, school uniforms and alterations",tailor shop,central,37143.99,10,0.915,,2817.49,1,12429.07,1,2163.82
-"corner grocery, rice cooking oil snacks",corner grocery,central,70334.92,3,0.296,,5130.69,2,20516.64,0,3099.08
-mini mart near school gate,corner grocery,south,40157.7,1,0.376,1.0,1517.63,2,12281.1,0,1560.02
-barbershop plus kids cuts,hair salon,central,74112.04,4,0.575,0.0,2737.47,2,21096.65,0,2369.17
-barbershop plus kids cuts,hair salon,highlands,20642.18,2,0.324,0.0,2148.28,2,10686.05,0,1472.08
-"tailor shop, school uniforms and alterations",tailor shop,central,42189.47,13,0.594,0.0,2353.49,0,26250.85,0,2138.31
-barbershop plus kids cuts,hair salon,highlands,8458.52,0,0.023,5.0,756.91,2,6440.75,0,2428.21
-roadside bike puncture and oil change point,motorbike repair shop,south,12726.41,2,,1.0,737.64,1,7937.05,1,2320.03
-barbershop plus kids cuts,hair salon,highlands,26081.27,2,,1.0,2775.84,0,19040.53,0,2350.16
-"wooden furniture workshop, custom orders",furniture workshop,central,25697.18,5,0.103,3.0,1574.38,5,19362.32,0,3203.9
-"cabinet maker, deposits upfront",furniture workshop,central,6758.14,8,0.581,0.0,261.81,0,4244.04,0,225.4
-"sewing shop with 3 machines, regulars",tailor shop,south,12713.66,2,0.576,1.0,,3,4355.32,0,786.46
-"sewing shop with 3 machines, regulars",tailor shop,south,25233.74,0,0.638,1.0,,5,18743.9,0,6020.39
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,17223.04,2,0.378,0.0,1131.11,3,6407.76,0,995.29
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,11252.42,4,0.316,2.0,662.62,1,8281.47,1,2493.59
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,10048.27,13,,1.0,885.86,0,3611.79,0,262.24
-roadside bike puncture and oil change point,motorbike repair shop,highlands,9650.39,3,0.738,0.0,411.86,2,3611.09,0,907.03
-roadside bike puncture and oil change point,motorbike repair shop,south,15841.14,1,0.02,2.0,1423.07,0,10393.66,0,1492.63
-"noodle cart near bus station, cash only",street food stall,highlands,76724.44,2,0.23,1.0,,5,21294.76,0,6797.37
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,40034.57,6,0.02,,2506.24,3,6086.11,0,828.37
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,183341.79,3,0.512,2.0,14735.52,1,60000.0,1,24173.32
-"tailor shop, school uniforms and alterations",tailor shop,highlands,33252.7,14,0.203,2.0,2691.13,1,18421.88,0,627.63
-"cabinet maker, deposits upfront",furniture workshop,north,48370.21,14,1.18,,2986.81,4,28100.36,0,2510.65
-"corner grocery, rice cooking oil snacks",corner grocery,north,10943.7,8,0.392,,981.68,3,7523.87,0,1020.08
-mini mart near school gate,corner grocery,south,56653.55,5,0.384,1.0,2456.94,3,40758.62,1,4028.21
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,21529.85,13,0.416,1.0,1530.48,1,9998.53,0,608.94
-"grilled skewers stand, weekend crowds",street food stall,highlands,19253.78,3,,1.0,938.22,1,14932.61,1,7157.18
-"hair salon, 4 chairs, walk-ins",hair salon,south,3458.07,10,0.02,,286.8,2,2429.54,0,67.78
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,15794.57,7,,0.0,1331.63,3,11847.86,0,3098.35
-"cabinet maker, deposits upfront",furniture workshop,highlands,38089.92,0,0.591,2.0,3528.37,4,10076.07,0,3676.11
-mobile top-up and accessories stand,phone accessories kiosk,south,87089.82,5,0.048,1.0,3462.91,2,57672.43,1,3892.58
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,32388.64,6,,1.0,,1,8191.96,1,1267.34
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,28597.67,6,,4.0,,3,18029.19,0,7446.63
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,10274.6,6,0.659,0.0,859.98,1,5819.36,0,1181.84
-"hair salon, 4 chairs, walk-ins",hair salon,central,66923.72,10,0.146,3.0,6412.69,1,40053.65,1,2526.14
-mobile top-up and accessories stand,phone accessories kiosk,south,45180.88,5,0.541,0.0,3113.95,1,18548.02,0,3379.91
-"tailor shop, school uniforms and alterations",tailor shop,south,11727.34,12,0.884,3.0,573.71,2,5309.68,0,1363.5
-roadside bike puncture and oil change point,motorbike repair shop,highlands,18603.55,2,0.339,,929.42,5,10478.26,0,1374.01
-"wooden furniture workshop, custom orders",furniture workshop,highlands,27184.35,7,0.573,1.0,2905.82,0,16232.73,0,1947.14
-"corner grocery, rice cooking oil snacks",corner grocery,south,9990.11,0,0.473,3.0,484.22,3,6174.74,1,3274.08
-mobile top-up and accessories stand,phone accessories kiosk,highlands,36541.36,12,0.201,,2092.77,0,28940.82,0,377.69
-roadside bike puncture and oil change point,motorbike repair shop,central,11564.28,14,0.214,2.0,461.48,5,6695.1,0,433.26
-barbershop plus kids cuts,hair salon,north,19954.6,13,0.253,2.0,2040.08,0,5981.22,0,214.13
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,29109.55,12,,,2741.16,0,17858.01,1,1752.06
-barbershop plus kids cuts,hair salon,south,57050.48,4,0.888,2.0,3050.98,1,21910.46,0,8016.21
-"grilled skewers stand, weekend crowds",street food stall,north,29002.23,7,0.645,6.0,1706.2,1,21387.95,1,11735.08
-roadside bike puncture and oil change point,motorbike repair shop,south,11051.11,13,0.522,4.0,,4,7637.81,1,1982.47
-barbershop plus kids cuts,hair salon,central,1326.87,6,0.528,,127.26,4,800.0,0,84.99
-"noodle cart near bus station, cash only",street food stall,south,396366.65,13,0.02,3.0,30420.02,1,60000.0,0,4253.56
-barbershop plus kids cuts,hair salon,highlands,16229.45,8,,2.0,619.86,2,4690.53,0,799.27
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,18511.82,14,1.038,,1347.9,3,7972.01,0,1174.27
-"grilled skewers stand, weekend crowds",street food stall,highlands,15298.84,2,0.445,0.0,1459.72,0,12178.85,0,2098.07
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,20974.11,3,0.182,1.0,1691.31,2,14114.51,0,1195.98
-barbershop plus kids cuts,hair salon,central,7595.09,2,0.171,,508.92,0,1626.24,0,195.47
-mini mart near school gate,corner grocery,central,5114.67,14,0.544,1.0,330.48,5,4037.89,0,149.21
-"wooden furniture workshop, custom orders",furniture workshop,central,32619.68,5,,0.0,2676.03,0,6196.66,1,1113.2
-barbershop plus kids cuts,hair salon,central,50794.49,10,0.668,1.0,5259.81,1,38745.14,0,2891.09
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,14547.63,7,0.865,1.0,527.23,1,5654.15,0,551.11
-"noodle cart near bus station, cash only",street food stall,south,27388.07,9,0.385,4.0,1912.49,0,17018.65,0,10172.7
-"cabinet maker, deposits upfront",furniture workshop,central,17776.36,1,0.173,0.0,633.51,1,3793.8,1,286.16
-"wooden furniture workshop, custom orders",furniture workshop,central,15114.74,11,0.834,1.0,558.53,3,8292.57,0,1554.01
-"hair salon, 4 chairs, walk-ins",hair salon,south,15378.23,4,,3.0,650.79,1,9621.87,0,4050.35
-"corner grocery, rice cooking oil snacks",corner grocery,south,5448.31,10,0.527,2.0,299.0,2,1375.39,0,166.59
-barbershop plus kids cuts,hair salon,north,4716.69,6,0.158,2.0,,3,1968.78,1,226.72
-"cabinet maker, deposits upfront",furniture workshop,north,14895.4,3,0.02,1.0,1450.65,2,3047.78,0,159.4
-"cabinet maker, deposits upfront",furniture workshop,south,152756.77,2,0.452,1.0,8455.78,0,60000.0,1,9755.8
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,27431.44,4,0.307,1.0,1743.75,2,10774.63,0,1327.19
-"corner grocery, rice cooking oil snacks",corner grocery,central,119984.06,0,0.779,2.0,8816.69,3,40479.31,0,13425.45
-"wooden furniture workshop, custom orders",furniture workshop,north,44153.82,4,0.15,0.0,2882.67,3,7141.78,0,643.22
-"tailor shop, school uniforms and alterations",tailor shop,central,11995.91,0,0.088,1.0,,4,5742.07,0,666.9
-"grilled skewers stand, weekend crowds",street food stall,central,80729.57,5,,0.0,,5,38233.0,0,10239.77
-roadside bike puncture and oil change point,motorbike repair shop,north,7719.55,11,0.786,,490.32,1,5578.85,0,1739.19
-"grilled skewers stand, weekend crowds",street food stall,highlands,8103.02,9,0.338,4.0,346.23,2,2058.71,0,734.6
-mobile top-up and accessories stand,phone accessories kiosk,highlands,3447.88,0,0.986,1.0,187.51,7,800.0,1,321.32
-"street food stall at night market, 2 tables",street food stall,highlands,7297.72,9,0.553,0.0,740.74,2,3897.25,0,577.15
-"sewing shop with 3 machines, regulars",tailor shop,central,15444.9,13,0.665,2.0,1414.27,1,3598.55,0,257.35
-"tailor shop, school uniforms and alterations",tailor shop,central,17777.17,12,0.442,1.0,1757.73,2,5798.74,0,382.39
-barbershop plus kids cuts,hair salon,north,7642.56,9,0.252,4.0,778.63,1,1574.99,0,247.84
-roadside bike puncture and oil change point,motorbike repair shop,central,30578.42,6,0.808,0.0,1827.46,0,8274.65,0,2069.32
-"cabinet maker, deposits upfront",furniture workshop,central,21578.26,2,0.355,2.0,2075.97,1,12036.55,0,2670.12
-roadside bike puncture and oil change point,motorbike repair shop,south,3005.09,4,0.323,2.0,242.82,1,1639.85,0,505.72
-"cabinet maker, deposits upfront",furniture workshop,north,15755.6,4,0.748,3.0,1392.01,0,7896.65,1,2978.17
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,39651.06,10,,2.0,3460.53,2,25754.82,0,2995.84
-roadside bike puncture and oil change point,motorbike repair shop,highlands,4987.11,1,0.663,1.0,281.14,2,2512.54,0,760.02
-"grilled skewers stand, weekend crowds",street food stall,highlands,14882.74,9,,2.0,758.1,1,4156.2,0,684.03
-"sewing shop with 3 machines, regulars",tailor shop,south,14608.25,11,0.324,2.0,1038.64,3,3054.43,0,122.84
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,4251.63,8,0.819,3.0,332.39,3,2195.67,1,701.74
-"street food stall at night market, 2 tables",street food stall,central,12179.62,0,0.486,2.0,,2,8649.38,1,2634.87
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,22361.94,9,,0.0,,2,6061.98,0,536.84
-"noodle cart near bus station, cash only",street food stall,north,16245.91,10,0.419,1.0,853.75,2,11572.12,0,2347.88
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,15044.91,0,,4.0,1071.88,2,2749.43,1,1009.28
-"noodle cart near bus station, cash only",street food stall,north,3491.33,8,,1.0,210.61,4,1869.87,0,401.49
-"street food stall at night market, 2 tables",street food stall,south,23817.18,8,0.993,0.0,,1,13931.95,1,5347.69
-mobile top-up and accessories stand,phone accessories kiosk,south,16735.92,2,0.395,1.0,1749.14,3,12432.83,0,2880.59
-"sewing shop with 3 machines, regulars",tailor shop,highlands,13240.06,12,0.304,1.0,882.09,1,6150.83,0,194.41
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,50602.91,7,0.482,1.0,,4,33460.29,0,3624.63
-"wooden furniture workshop, custom orders",furniture workshop,highlands,13358.81,9,0.398,5.0,1197.81,5,9370.45,0,3602.55
-"corner grocery, rice cooking oil snacks",corner grocery,north,25579.84,0,0.483,3.0,1872.64,2,13292.52,1,4654.06
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,5996.28,9,0.57,3.0,270.76,3,3478.89,1,828.54
-"hair salon, 4 chairs, walk-ins",hair salon,south,18976.47,4,0.314,0.0,2037.15,3,7207.58,0,463.7
-mini mart near school gate,corner grocery,north,5409.03,4,0.541,1.0,555.67,1,1884.4,0,214.36
-mobile top-up and accessories stand,phone accessories kiosk,central,72297.84,12,0.193,1.0,6925.94,2,42566.9,0,2367.64
-"hair salon, 4 chairs, walk-ins",hair salon,south,23526.49,3,0.369,1.0,2239.3,1,10185.42,0,1977.76
-roadside bike puncture and oil change point,motorbike repair shop,south,60584.87,6,0.461,2.0,4528.83,1,11196.2,0,1730.03
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,44578.69,14,0.828,0.0,3663.99,2,8024.23,0,947.18
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,32709.74,10,0.419,2.0,3319.3,6,9300.07,0,802.84
-roadside bike puncture and oil change point,motorbike repair shop,north,22767.16,12,0.713,2.0,2130.14,0,5186.57,1,671.71
-"corner grocery, rice cooking oil snacks",corner grocery,central,8806.79,12,0.556,,923.76,3,1375.77,0,44.31
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,33483.16,0,0.415,2.0,1981.35,4,18403.56,1,7349.08
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,26213.64,13,0.526,3.0,925.15,1,10054.64,0,1242.03
-"grilled skewers stand, weekend crowds",street food stall,highlands,47768.6,7,0.557,0.0,3279.95,2,12658.95,1,2594.39
-roadside bike puncture and oil change point,motorbike repair shop,south,26285.64,4,0.548,1.0,1573.05,2,5541.58,0,1039.81
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,14022.66,2,0.904,1.0,1346.42,1,3196.16,0,664.87
-mobile top-up and accessories stand,phone accessories kiosk,south,7096.35,7,0.463,3.0,748.47,1,3412.13,0,723.05
-"cabinet maker, deposits upfront",furniture workshop,south,13806.08,0,,1.0,1348.29,0,9020.58,1,1806.57
-"cabinet maker, deposits upfront",furniture workshop,north,1705.32,8,0.447,,79.4,3,800.0,0,148.32
-mini mart near school gate,corner grocery,south,28980.68,1,0.482,2.0,,3,18823.65,0,4290.43
-"street food stall at night market, 2 tables",street food stall,south,13490.97,1,0.623,2.0,1396.71,2,10749.11,1,6194.58
-"noodle cart near bus station, cash only",street food stall,south,13979.69,14,0.045,1.0,1343.86,3,10749.6,0,794.42
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,10967.66,10,0.842,2.0,1116.94,3,2285.62,0,608.79
-"tailor shop, school uniforms and alterations",tailor shop,central,25079.67,9,0.363,1.0,1410.11,1,14973.21,0,1528.46
-mini mart near school gate,corner grocery,north,57184.65,3,0.387,3.0,2441.85,3,17793.97,0,3218.14
-"tailor shop, school uniforms and alterations",tailor shop,central,14119.89,1,0.42,1.0,1477.31,0,4269.38,0,516.8
-roadside bike puncture and oil change point,motorbike repair shop,north,35906.72,10,0.354,2.0,1300.86,5,13699.1,0,1371.52
-"grilled skewers stand, weekend crowds",street food stall,north,6363.36,7,0.519,,522.1,3,3479.75,0,702.65
-"sewing shop with 3 machines, regulars",tailor shop,south,5205.5,12,0.476,2.0,375.62,3,3041.87,0,126.1
-"hair salon, 4 chairs, walk-ins",hair salon,south,20445.23,9,0.403,3.0,,1,16026.78,0,2837.92
-roadside bike puncture and oil change point,motorbike repair shop,highlands,42065.82,10,0.02,2.0,2873.89,2,27673.08,0,1610.76
-"corner grocery, rice cooking oil snacks",corner grocery,north,11707.49,0,0.104,,730.48,1,7236.73,0,895.34
-"sewing shop with 3 machines, regulars",tailor shop,central,6820.41,9,0.178,2.0,484.41,1,5319.94,0,245.36
-"sewing shop with 3 machines, regulars",tailor shop,south,56417.73,8,0.25,4.0,5984.48,3,21853.99,0,1854.07
-barbershop plus kids cuts,hair salon,central,6998.31,13,0.425,,702.96,1,4153.78,0,292.12
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,59309.11,8,0.471,4.0,3926.02,1,12525.89,0,3151.84
-mobile top-up and accessories stand,phone accessories kiosk,central,15600.09,8,0.161,2.0,1653.6,3,9850.54,0,736.79
-mini mart near school gate,corner grocery,south,10113.17,6,0.415,3.0,659.88,3,2851.39,0,613.3
-"sewing shop with 3 machines, regulars",tailor shop,highlands,105151.3,10,0.179,3.0,8858.31,0,26753.27,1,946.14
-roadside bike puncture and oil change point,motorbike repair shop,south,24700.73,0,,2.0,2565.29,0,15169.89,1,8619.73
-"corner grocery, rice cooking oil snacks",corner grocery,south,18979.05,2,0.248,2.0,931.2,4,13204.61,0,930.92
-mini mart near school gate,corner grocery,central,15209.31,14,0.486,2.0,1244.98,2,10027.42,0,747.63
-"corner grocery, rice cooking oil snacks",corner grocery,central,43935.7,12,0.552,,3649.29,1,12352.35,0,423.65
-"cabinet maker, deposits upfront",furniture workshop,south,12859.21,2,0.515,3.0,1293.06,1,7451.84,0,2732.09
-mobile top-up and accessories stand,phone accessories kiosk,central,5436.36,3,0.263,2.0,,2,3714.09,1,747.42
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,3346.3,14,0.113,2.0,251.05,3,800.0,0,40.58
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,160735.84,11,1.127,1.0,14113.35,0,50908.4,0,15268.54
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,21732.0,1,0.477,2.0,2053.86,1,12206.2,1,3735.47
-mobile top-up and accessories stand,phone accessories kiosk,north,17882.55,12,0.596,,1451.94,4,12094.77,0,1085.39
-"hair salon, 4 chairs, walk-ins",hair salon,south,27220.5,2,0.02,4.0,2017.11,1,17316.05,0,3334.54
-"sewing shop with 3 machines, regulars",tailor shop,central,27657.65,10,0.203,2.0,2488.71,4,14185.13,0,450.04
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,20029.68,5,0.142,6.0,995.68,3,7583.59,1,3192.29
-mini mart near school gate,corner grocery,highlands,153767.0,13,,4.0,8915.15,2,60000.0,0,2520.78
-"grilled skewers stand, weekend crowds",street food stall,south,26227.66,10,0.075,0.0,,2,19067.03,0,773.15
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,6157.43,11,0.186,0.0,242.4,2,2325.48,0,49.08
-"hair salon, 4 chairs, walk-ins",hair salon,central,22836.99,6,0.02,1.0,2344.3,4,8988.52,0,329.41
-"noodle cart near bus station, cash only",street food stall,south,45821.61,2,0.296,1.0,2023.65,0,15732.69,1,5221.82
-"hair salon, 4 chairs, walk-ins",hair salon,south,10539.48,4,,0.0,755.23,4,5055.77,0,390.0
-"cabinet maker, deposits upfront",furniture workshop,central,70748.93,8,0.094,1.0,3542.11,3,18240.67,0,464.87
-"corner grocery, rice cooking oil snacks",corner grocery,central,12363.01,4,0.509,,,0,5160.23,0,317.54
-barbershop plus kids cuts,hair salon,north,22853.2,7,0.421,1.0,1772.59,3,12574.29,1,1228.65
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,14744.83,10,0.338,2.0,1343.37,5,11254.38,0,527.18
-"tailor shop, school uniforms and alterations",tailor shop,highlands,28317.67,8,0.571,,2953.7,1,14498.86,0,1550.25
-"tailor shop, school uniforms and alterations",tailor shop,central,9880.42,14,0.431,0.0,411.99,4,1517.57,0,53.04
-"grilled skewers stand, weekend crowds",street food stall,central,56332.1,8,0.239,,2134.89,0,31379.89,0,4882.64
-"hair salon, 4 chairs, walk-ins",hair salon,south,45279.43,11,0.082,1.0,3693.18,1,34066.15,0,1068.11
-"sewing shop with 3 machines, regulars",tailor shop,central,30254.97,7,0.187,4.0,2764.36,2,18975.05,1,3607.55
-mini mart near school gate,corner grocery,south,13056.97,8,0.353,1.0,530.82,1,7742.47,1,469.43
-mobile top-up and accessories stand,phone accessories kiosk,north,48612.33,0,0.153,1.0,,1,31912.71,1,4386.3
-"wooden furniture workshop, custom orders",furniture workshop,central,11135.87,5,0.32,2.0,389.01,0,7583.59,0,1287.95
-roadside bike puncture and oil change point,motorbike repair shop,highlands,15132.8,12,1.065,0.0,970.98,3,6887.72,0,1096.59
-roadside bike puncture and oil change point,motorbike repair shop,south,3324.1,0,,,133.44,3,2624.49,1,1129.05
-"sewing shop with 3 machines, regulars",tailor shop,north,92469.54,8,0.131,2.0,,0,21170.86,0,921.42
-"street food stall at night market, 2 tables",street food stall,south,14758.2,0,0.659,0.0,1178.54,2,7809.31,0,2102.0
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,20412.91,11,0.332,1.0,1832.35,1,9759.47,0,462.33
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,58803.92,0,0.725,1.0,5523.34,3,21662.07,0,7361.82
-barbershop plus kids cuts,hair salon,highlands,27389.6,6,0.306,1.0,,1,21287.04,0,1011.08
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,4948.8,14,0.479,2.0,375.2,0,946.43,1,156.75
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,76895.01,1,,1.0,8050.89,1,16930.11,1,4180.22
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,14016.15,13,0.658,,1493.77,1,5435.66,0,376.77
-barbershop plus kids cuts,hair salon,north,8500.83,1,0.376,0.0,,2,6398.8,0,575.24
-"wooden furniture workshop, custom orders",furniture workshop,central,53100.61,11,0.186,1.0,4992.62,5,16725.89,0,345.68
-"cabinet maker, deposits upfront",furniture workshop,north,21439.31,11,0.02,,1181.99,0,7944.7,0,338.84
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,76607.28,14,0.768,0.0,5949.91,0,14156.7,0,540.09
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,29251.41,10,0.122,0.0,1655.12,2,21870.78,0,976.68
-"sewing shop with 3 machines, regulars",tailor shop,south,3900.59,5,,2.0,139.38,1,3066.65,0,727.86
-"wooden furniture workshop, custom orders",furniture workshop,central,11723.77,9,0.627,1.0,1072.02,2,8438.13,1,1027.76
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,53630.49,1,0.739,1.0,3312.36,5,15531.46,0,4335.01
-"wooden furniture workshop, custom orders",furniture workshop,north,5422.35,4,0.787,1.0,201.23,1,904.65,1,258.35
-barbershop plus kids cuts,hair salon,north,22233.47,12,0.598,,1974.36,3,11941.71,0,380.51
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,76745.16,10,0.15,6.0,5077.93,1,53603.79,0,14318.16
-"noodle cart near bus station, cash only",street food stall,north,39269.16,14,,1.0,1451.65,2,16864.27,0,961.04
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,15942.33,8,0.372,2.0,,2,10764.87,1,2203.6
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,5504.19,3,0.215,1.0,205.29,1,1002.4,0,115.91
-"corner grocery, rice cooking oil snacks",corner grocery,central,4303.62,4,0.413,,426.43,3,2010.87,0,164.02
-roadside bike puncture and oil change point,motorbike repair shop,highlands,10328.39,10,0.085,2.0,891.12,1,4931.3,0,211.22
-roadside bike puncture and oil change point,motorbike repair shop,highlands,34910.14,14,0.776,0.0,2574.26,2,16761.21,0,1101.79
-barbershop plus kids cuts,hair salon,highlands,58290.17,2,0.666,1.0,3570.86,4,42906.01,1,9221.29
-"hair salon, 4 chairs, walk-ins",hair salon,south,29025.92,7,,,3071.6,1,12269.63,0,1511.49
-mini mart near school gate,corner grocery,south,4974.22,3,0.588,1.0,531.13,5,1047.37,0,270.23
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,29876.85,5,0.462,3.0,1157.66,1,23819.64,0,7810.03
-mobile top-up and accessories stand,phone accessories kiosk,south,29058.54,3,0.201,,2720.62,0,10359.74,0,1040.1
-"sewing shop with 3 machines, regulars",tailor shop,south,22969.44,13,0.379,1.0,949.65,1,16098.64,0,461.0
-"sewing shop with 3 machines, regulars",tailor shop,south,5019.52,1,0.41,2.0,498.3,2,2417.31,0,497.67
-"hair salon, 4 chairs, walk-ins",hair salon,south,12836.44,11,,1.0,554.85,2,9837.44,0,308.73
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,6282.52,7,0.681,,452.17,1,2282.74,0,733.28
-"sewing shop with 3 machines, regulars",tailor shop,north,22468.23,11,0.02,1.0,2302.65,3,3458.18,0,39.7
-roadside bike puncture and oil change point,motorbike repair shop,north,3106.59,2,0.268,1.0,131.96,2,800.0,0,149.72
-barbershop plus kids cuts,hair salon,central,10646.74,11,0.43,,403.26,2,3198.66,0,202.02
-roadside bike puncture and oil change point,motorbike repair shop,central,36508.81,9,0.509,1.0,2980.81,1,28703.25,0,4235.8
-roadside bike puncture and oil change point,motorbike repair shop,north,278941.21,2,0.379,,23191.81,2,60000.0,0,5394.81
-"tailor shop, school uniforms and alterations",tailor shop,south,9964.18,2,0.152,3.0,531.55,1,2538.3,0,595.88
-mini mart near school gate,corner grocery,south,20180.29,10,0.256,,1711.65,5,10743.87,0,522.24
-mobile top-up and accessories stand,phone accessories kiosk,highlands,31129.47,7,0.993,1.0,2404.52,1,17337.05,1,6070.05
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,51812.11,8,0.495,4.0,3826.06,0,18063.7,0,3788.34
-"noodle cart near bus station, cash only",street food stall,north,21744.64,11,0.137,1.0,1507.16,1,14914.15,0,913.51
-"tailor shop, school uniforms and alterations",tailor shop,highlands,51582.86,5,0.126,0.0,4722.56,2,8289.8,0,374.73
-"corner grocery, rice cooking oil snacks",corner grocery,north,20441.9,11,0.252,0.0,946.29,3,13622.39,0,301.27
-mini mart near school gate,corner grocery,south,10502.55,0,0.918,0.0,1026.92,1,3351.22,1,1041.26
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,22525.28,13,0.417,4.0,1690.46,1,14020.86,1,3075.32
-"wooden furniture workshop, custom orders",furniture workshop,north,5739.11,14,0.555,2.0,225.63,1,975.37,0,106.55
-"sewing shop with 3 machines, regulars",tailor shop,central,29293.01,6,0.514,1.0,2746.11,3,5737.35,1,735.17
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,8001.63,9,0.636,,,2,4912.94,1,322.19
-"noodle cart near bus station, cash only",street food stall,central,85573.79,7,0.157,2.0,6904.53,3,39871.69,0,8569.4
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,22878.82,3,0.542,0.0,2356.7,4,3495.13,0,607.87
-mini mart near school gate,corner grocery,north,10378.96,12,0.688,1.0,676.36,6,4758.18,0,272.86
-"cabinet maker, deposits upfront",furniture workshop,south,47035.85,1,0.47,0.0,1975.19,0,23319.71,0,3321.27
-roadside bike puncture and oil change point,motorbike repair shop,central,21840.25,1,0.274,3.0,2275.23,6,15751.16,1,4841.59
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,77778.97,1,0.182,,6574.28,2,28027.66,0,7134.75
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,35817.67,3,0.149,2.0,3573.63,1,12301.9,1,1244.71
-mini mart near school gate,corner grocery,south,27145.91,13,0.33,3.0,2336.05,2,10812.62,0,502.27
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,5693.45,13,0.218,1.0,489.52,4,940.96,0,30.87
-"hair salon, 4 chairs, walk-ins",hair salon,central,10465.2,9,,2.0,421.53,4,7042.95,0,1206.49
-"street food stall at night market, 2 tables",street food stall,south,73028.09,10,0.496,0.0,6792.71,1,41387.24,0,2836.04
-barbershop plus kids cuts,hair salon,highlands,2315.91,11,0.684,1.0,149.28,3,800.0,1,70.5
-"wooden furniture workshop, custom orders",furniture workshop,north,15220.85,12,0.239,2.0,1249.09,5,9677.63,0,788.25
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,15797.76,0,,6.0,913.62,2,6714.86,1,2405.47
-"tailor shop, school uniforms and alterations",tailor shop,south,35009.86,0,0.66,1.0,3022.58,1,23940.92,0,4632.02
-mini mart near school gate,corner grocery,highlands,54254.75,5,0.649,1.0,,2,27035.86,1,3518.43
-"sewing shop with 3 machines, regulars",tailor shop,highlands,113828.39,10,0.562,3.0,8516.63,2,54408.28,0,4532.36
-mini mart near school gate,corner grocery,central,36421.85,10,0.087,,1959.22,3,5921.16,0,108.86
-mini mart near school gate,corner grocery,central,32173.07,14,0.424,1.0,,2,22620.98,0,598.67
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,54581.53,13,0.31,0.0,5731.02,2,30629.29,0,729.94
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,18644.68,4,,1.0,858.48,1,8300.78,0,1353.23
-mini mart near school gate,corner grocery,north,38422.76,1,0.151,4.0,,3,22670.63,0,7341.48
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,49216.26,10,0.658,1.0,2998.7,1,38449.75,0,3500.28
-"grilled skewers stand, weekend crowds",street food stall,central,33452.11,4,0.616,0.0,1226.71,1,17530.15,0,6053.69
-mobile top-up and accessories stand,phone accessories kiosk,highlands,26449.33,0,0.513,0.0,2428.39,1,12630.06,0,2379.44
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,73053.93,12,0.338,2.0,5082.44,1,17983.46,0,1273.24
-"wooden furniture workshop, custom orders",furniture workshop,north,11064.51,3,0.172,6.0,997.11,2,8785.33,0,3817.49
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,25299.8,12,,3.0,,3,19791.7,0,2652.86
-mobile top-up and accessories stand,phone accessories kiosk,south,66292.97,12,0.418,0.0,6147.95,2,46116.9,0,1721.38
-"tailor shop, school uniforms and alterations",tailor shop,central,122242.82,3,0.377,3.0,,3,60000.0,0,12370.31
-barbershop plus kids cuts,hair salon,south,21467.75,3,0.552,1.0,840.52,1,16450.91,0,2871.74
-mobile top-up and accessories stand,phone accessories kiosk,north,24453.37,1,0.359,0.0,2535.61,3,19238.26,0,2729.2
-"noodle cart near bus station, cash only",street food stall,north,25015.84,5,0.246,1.0,2045.05,2,11986.42,1,4804.06
-barbershop plus kids cuts,hair salon,south,38210.99,4,1.006,1.0,3009.16,1,24149.52,0,7804.65
-"hair salon, 4 chairs, walk-ins",hair salon,central,24879.71,14,0.339,2.0,1375.42,1,19348.69,1,662.48
-"noodle cart near bus station, cash only",street food stall,highlands,40522.13,14,0.492,3.0,2538.12,6,20498.8,0,3812.61
-"corner grocery, rice cooking oil snacks",corner grocery,south,8746.92,11,0.447,1.0,848.34,1,2735.31,0,121.74
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,2719.5,14,0.693,2.0,226.44,3,1004.6,1,141.49
-"corner grocery, rice cooking oil snacks",corner grocery,north,35926.24,5,0.646,1.0,,1,23397.34,1,3548.63
-mini mart near school gate,corner grocery,south,13250.39,5,0.349,0.0,606.27,1,5178.38,0,234.76
-barbershop plus kids cuts,hair salon,highlands,55616.56,10,0.431,,1965.24,2,29916.85,0,1643.19
-"sewing shop with 3 machines, regulars",tailor shop,north,22337.93,10,0.02,0.0,1501.03,2,6673.44,0,132.82
-"tailor shop, school uniforms and alterations",tailor shop,highlands,34471.27,11,0.523,,1774.15,0,26026.42,0,1293.68
-barbershop plus kids cuts,hair salon,north,47404.07,8,0.804,0.0,2606.56,1,36800.37,0,5125.99
-"grilled skewers stand, weekend crowds",street food stall,north,33038.67,8,0.668,0.0,3351.4,3,17971.08,1,3018.01
-roadside bike puncture and oil change point,motorbike repair shop,central,10745.85,13,0.397,1.0,1135.23,4,8535.48,0,405.64
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,31229.45,2,0.02,2.0,2041.61,1,12573.75,0,1972.78
-"cabinet maker, deposits upfront",furniture workshop,north,39308.79,6,0.945,0.0,,4,8777.67,0,1024.55
-"corner grocery, rice cooking oil snacks",corner grocery,north,7229.82,10,0.366,0.0,782.14,0,5412.85,0,163.54
-mini mart near school gate,corner grocery,highlands,24211.53,3,0.409,1.0,1827.51,0,13324.42,0,1850.29
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,39037.31,0,0.516,3.0,2510.87,3,16971.01,1,8777.19
-"tailor shop, school uniforms and alterations",tailor shop,central,20375.69,11,0.14,1.0,,1,7551.1,0,282.78
-"tailor shop, school uniforms and alterations",tailor shop,highlands,25526.95,13,0.333,0.0,2569.01,1,16951.6,0,405.58
-barbershop plus kids cuts,hair salon,highlands,19790.92,0,,2.0,,3,3042.52,1,851.3
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,8575.28,10,,1.0,539.79,1,1698.15,1,290.45
-roadside bike puncture and oil change point,motorbike repair shop,central,41462.93,13,0.471,,,3,11230.67,0,1677.27
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,69473.68,5,,2.0,7314.45,4,41360.62,1,9776.14
-"hair salon, 4 chairs, walk-ins",hair salon,central,67840.11,10,0.032,,4089.47,1,48547.06,0,1376.26
-"cabinet maker, deposits upfront",furniture workshop,central,6736.4,4,0.247,1.0,241.2,2,4115.1,0,316.33
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,33176.41,2,0.537,1.0,2241.38,1,26095.49,1,5627.16
-roadside bike puncture and oil change point,motorbike repair shop,north,11930.68,9,0.357,0.0,513.86,0,6383.2,1,303.75
-"wooden furniture workshop, custom orders",furniture workshop,south,40702.09,13,0.379,0.0,2915.92,1,21408.03,0,622.44
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,11031.76,6,0.31,,,3,6371.09,0,822.81
-"street food stall at night market, 2 tables",street food stall,central,12643.65,13,0.119,1.0,,2,6556.22,0,121.32
-mini mart near school gate,corner grocery,central,26105.41,0,0.02,1.0,1187.25,4,9923.93,0,1024.48
-mobile top-up and accessories stand,phone accessories kiosk,south,35221.46,11,0.277,2.0,,2,17259.05,0,1117.46
-"hair salon, 4 chairs, walk-ins",hair salon,south,21439.46,1,0.582,2.0,1452.25,3,4383.63,0,1486.2
-roadside bike puncture and oil change point,motorbike repair shop,central,18495.54,10,0.096,1.0,,2,4211.24,0,163.97
-barbershop plus kids cuts,hair salon,north,18660.34,11,0.996,4.0,1196.25,1,12208.49,0,5494.3
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,12032.75,8,0.42,1.0,1027.62,2,2068.14,0,161.49
-"wooden furniture workshop, custom orders",furniture workshop,central,16367.58,12,0.469,1.0,1434.17,2,7821.87,0,411.87
-barbershop plus kids cuts,hair salon,central,73274.21,9,0.292,6.0,,2,41178.84,0,15077.56
-"wooden furniture workshop, custom orders",furniture workshop,north,28463.41,2,0.345,3.0,2990.64,4,20345.81,0,6598.49
-mini mart near school gate,corner grocery,south,15627.26,3,0.077,0.0,1633.89,3,8016.61,0,497.15
-mini mart near school gate,corner grocery,highlands,53085.7,1,0.634,1.0,4865.7,3,27952.9,0,5534.93
-"grilled skewers stand, weekend crowds",street food stall,highlands,33602.81,1,0.542,0.0,2357.16,1,11309.67,1,2773.21
-"corner grocery, rice cooking oil snacks",corner grocery,north,29239.53,7,0.02,2.0,2783.67,4,12748.56,0,503.22
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,11595.09,14,0.112,0.0,1005.69,2,5884.81,0,187.74
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,19833.53,13,0.501,0.0,1684.46,2,4012.54,0,170.35
-"tailor shop, school uniforms and alterations",tailor shop,highlands,16465.09,14,0.399,3.0,,0,9769.79,0,1140.31
-"hair salon, 4 chairs, walk-ins",hair salon,north,9421.57,9,0.499,1.0,,1,2907.82,0,234.4
-roadside bike puncture and oil change point,motorbike repair shop,south,11192.58,7,0.508,0.0,,1,2556.02,0,330.05
-roadside bike puncture and oil change point,motorbike repair shop,south,7840.11,8,0.384,4.0,765.82,1,4293.94,0,1572.14
-mini mart near school gate,corner grocery,highlands,61168.35,9,,0.0,2253.69,0,19938.16,0,266.01
-"corner grocery, rice cooking oil snacks",corner grocery,south,5944.5,5,0.32,,204.1,2,2435.1,0,131.91
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,40051.22,14,0.392,1.0,2539.82,5,30302.07,1,1184.04
-mini mart near school gate,corner grocery,highlands,30396.76,7,0.296,6.0,1030.87,2,7327.23,1,2044.79
-"sewing shop with 3 machines, regulars",tailor shop,south,57137.05,5,0.136,0.0,3520.84,0,20510.88,0,644.15
-barbershop plus kids cuts,hair salon,highlands,5631.85,11,0.574,,386.24,2,1329.71,0,327.12
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,9013.63,12,0.714,1.0,722.27,0,6564.0,0,1062.09
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,16911.19,3,0.553,4.0,1728.44,1,8791.04,1,3706.97
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,15251.54,6,0.632,4.0,661.79,1,2880.86,1,1035.48
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,14944.64,1,0.124,3.0,1059.82,0,11514.77,1,3424.12
-"sewing shop with 3 machines, regulars",tailor shop,north,13406.03,5,0.195,2.0,855.06,0,2734.34,0,396.0
-mobile top-up and accessories stand,phone accessories kiosk,highlands,29426.99,10,0.315,3.0,1780.34,1,6684.67,0,901.04
-mobile top-up and accessories stand,phone accessories kiosk,highlands,23691.99,11,0.548,2.0,2344.71,3,11195.04,1,1552.89
-"grilled skewers stand, weekend crowds",street food stall,north,22067.06,5,0.716,4.0,931.77,5,3465.26,0,1521.8
-"tailor shop, school uniforms and alterations",tailor shop,south,26605.05,14,0.504,0.0,1909.99,3,10604.21,0,257.08
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,103079.16,8,0.296,1.0,7440.85,5,60000.0,0,1955.18
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,24503.44,10,0.731,0.0,2224.08,2,19202.65,0,1951.97
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,10735.38,1,0.256,2.0,483.6,3,5839.42,0,1415.55
-"grilled skewers stand, weekend crowds",street food stall,highlands,38125.03,3,0.275,0.0,3225.07,1,22098.32,1,3328.2
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,25748.09,6,0.406,3.0,975.08,3,12195.0,0,3339.03
-"cabinet maker, deposits upfront",furniture workshop,north,3251.09,10,,1.0,117.73,3,2326.51,1,159.89
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,20094.14,6,0.376,0.0,1245.63,6,14803.78,1,2246.11
-"street food stall at night market, 2 tables",street food stall,central,27021.98,3,0.399,2.0,2200.31,3,7796.09,1,1933.52
-barbershop plus kids cuts,hair salon,highlands,15036.94,3,0.645,1.0,813.89,5,5333.2,0,897.67
-"corner grocery, rice cooking oil snacks",corner grocery,south,3060.99,6,0.416,,183.73,1,1987.52,0,107.29
-mobile top-up and accessories stand,phone accessories kiosk,south,195038.59,10,0.55,2.0,17735.66,3,60000.0,0,6448.37
-"grilled skewers stand, weekend crowds",street food stall,south,49515.45,3,0.496,4.0,5109.73,1,13922.12,1,4772.69
-mini mart near school gate,corner grocery,south,22929.21,12,0.473,2.0,1497.49,3,5635.53,1,331.05
-"sewing shop with 3 machines, regulars",tailor shop,highlands,44378.56,5,0.485,4.0,3939.96,0,31099.41,0,11799.84
-"wooden furniture workshop, custom orders",furniture workshop,central,39846.82,8,0.812,0.0,3468.95,1,18711.61,0,3235.33
-"sewing shop with 3 machines, regulars",tailor shop,north,11274.18,14,0.534,1.0,,1,5960.06,0,180.11
-mobile top-up and accessories stand,phone accessories kiosk,central,16037.66,10,0.262,1.0,850.89,2,5700.62,0,595.03
-mini mart near school gate,corner grocery,north,25106.63,0,0.922,2.0,2049.26,0,4338.68,1,2030.37
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,107632.66,6,0.517,,,1,20251.15,1,5163.32
-"street food stall at night market, 2 tables",street food stall,north,8123.22,6,0.37,0.0,325.0,0,1772.33,0,250.75
-mini mart near school gate,corner grocery,highlands,28803.51,12,0.605,2.0,2291.17,2,19426.12,1,1399.62
-"wooden furniture workshop, custom orders",furniture workshop,north,28666.91,4,0.521,,2450.84,2,18012.82,0,3475.67
-"wooden furniture workshop, custom orders",furniture workshop,north,40250.88,8,,0.0,2583.03,2,19762.93,0,1032.73
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,10815.6,10,0.763,0.0,435.92,1,4317.44,0,563.71
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,16109.6,2,0.439,2.0,1672.25,2,10720.43,0,2144.43
-"tailor shop, school uniforms and alterations",tailor shop,south,24796.03,13,,0.0,1476.85,4,5112.75,0,149.94
-"hair salon, 4 chairs, walk-ins",hair salon,central,21780.06,14,,1.0,1452.77,0,5220.97,0,309.15
-"cabinet maker, deposits upfront",furniture workshop,highlands,16430.72,11,,3.0,1447.5,1,2931.95,0,170.29
-mini mart near school gate,corner grocery,south,49624.13,6,,,4142.17,2,35491.27,0,6513.5
-"sewing shop with 3 machines, regulars",tailor shop,central,70036.77,10,0.597,1.0,6904.77,3,43048.67,0,1816.37
-"wooden furniture workshop, custom orders",furniture workshop,highlands,34466.83,10,0.447,1.0,1943.96,2,5472.71,0,701.36
-"tailor shop, school uniforms and alterations",tailor shop,south,29460.03,3,0.275,1.0,1003.56,5,8951.73,0,764.7
-"grilled skewers stand, weekend crowds",street food stall,north,57974.53,8,0.303,0.0,,2,46149.28,0,2826.79
-mobile top-up and accessories stand,phone accessories kiosk,south,9626.55,3,0.646,1.0,892.03,1,7483.06,1,813.62
-"grilled skewers stand, weekend crowds",street food stall,highlands,16402.27,9,0.131,1.0,1346.93,2,8701.77,0,499.35
-barbershop plus kids cuts,hair salon,central,58587.24,2,0.805,1.0,3859.98,1,16853.01,0,2383.6
-"cabinet maker, deposits upfront",furniture workshop,north,31240.68,13,0.66,2.0,2231.96,1,19616.62,0,1363.94
-"grilled skewers stand, weekend crowds",street food stall,south,24862.77,2,,4.0,1276.45,1,6519.02,1,3363.98
-"noodle cart near bus station, cash only",street food stall,north,19916.38,4,0.521,,1362.27,0,7198.45,1,2342.91
-roadside bike puncture and oil change point,motorbike repair shop,highlands,41104.78,6,0.395,2.0,3103.32,1,22991.6,0,2849.79
-roadside bike puncture and oil change point,motorbike repair shop,central,6186.93,1,0.527,1.0,655.28,1,1372.04,0,364.85
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,55189.9,7,0.675,4.0,4617.56,4,38986.02,1,21222.55
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,84515.56,9,0.239,1.0,6085.8,3,60000.0,0,4148.63
-"cabinet maker, deposits upfront",furniture workshop,north,51695.24,3,,1.0,2138.8,4,19489.49,0,2404.92
-mobile top-up and accessories stand,phone accessories kiosk,south,63702.93,14,0.088,1.0,6787.32,1,20782.46,0,534.46
-"wooden furniture workshop, custom orders",furniture workshop,central,32131.31,1,0.335,3.0,1347.77,4,10846.05,0,2405.97
-mini mart near school gate,corner grocery,north,7774.41,14,0.429,2.0,435.77,3,6192.14,0,294.5
-mini mart near school gate,corner grocery,north,59056.2,14,0.435,2.0,2606.77,5,13173.21,0,816.81
-roadside bike puncture and oil change point,motorbike repair shop,central,20380.83,0,0.248,0.0,1337.8,2,8738.41,0,1952.24
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,55573.81,9,0.378,3.0,3604.45,5,24396.83,0,5348.29
-"cabinet maker, deposits upfront",furniture workshop,highlands,7816.81,11,0.526,,354.6,1,1274.43,0,61.5
-mini mart near school gate,corner grocery,north,30259.32,12,0.846,0.0,2935.79,2,20606.45,0,642.39
-roadside bike puncture and oil change point,motorbike repair shop,north,13663.43,10,0.641,0.0,713.63,1,8222.99,1,1015.72
-mini mart near school gate,corner grocery,north,17065.23,12,0.591,4.0,1645.57,4,8674.05,0,1014.06
-mini mart near school gate,corner grocery,north,52860.04,9,0.628,1.0,3256.38,4,28084.78,0,2176.24
-roadside bike puncture and oil change point,motorbike repair shop,south,10648.33,6,0.378,2.0,1043.04,2,6524.69,0,770.96
-"street food stall at night market, 2 tables",street food stall,highlands,40257.83,14,0.469,3.0,1482.46,0,28962.79,0,6476.05
-"sewing shop with 3 machines, regulars",tailor shop,south,11981.79,14,,0.0,744.67,2,8260.99,0,492.68
-mobile top-up and accessories stand,phone accessories kiosk,highlands,3198.43,6,0.34,,195.37,1,1892.34,0,295.48
-roadside bike puncture and oil change point,motorbike repair shop,central,19432.36,8,0.262,2.0,1212.69,3,4320.41,0,586.32
-"noodle cart near bus station, cash only",street food stall,north,19524.96,1,,1.0,1857.76,4,11580.42,1,5166.75
-"street food stall at night market, 2 tables",street food stall,highlands,15964.88,12,0.626,3.0,,2,2867.75,1,843.67
-"tailor shop, school uniforms and alterations",tailor shop,north,34561.36,1,0.528,4.0,2176.74,7,8458.78,1,3694.36
-mobile top-up and accessories stand,phone accessories kiosk,south,230663.56,6,0.485,2.0,15408.46,1,60000.0,0,6681.42
-"tailor shop, school uniforms and alterations",tailor shop,central,8788.03,6,0.76,1.0,808.25,1,3491.56,1,691.9
-mobile top-up and accessories stand,phone accessories kiosk,highlands,7007.34,4,0.247,2.0,736.67,0,4797.99,1,854.3
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,23093.19,1,0.156,4.0,2064.77,2,5516.92,0,1880.97
-roadside bike puncture and oil change point,motorbike repair shop,north,28911.41,2,0.19,1.0,2438.11,1,18396.48,0,3275.79
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,25377.85,3,0.512,5.0,1658.84,3,14816.62,1,3941.06
-"hair salon, 4 chairs, walk-ins",hair salon,central,12262.81,11,,2.0,1141.76,1,7781.04,0,909.46
-"street food stall at night market, 2 tables",street food stall,south,28177.13,3,0.2,1.0,1696.39,0,17758.46,0,3386.73
-"wooden furniture workshop, custom orders",furniture workshop,north,101627.7,0,0.302,1.0,4089.96,2,60000.0,0,15355.55
-"cabinet maker, deposits upfront",furniture workshop,south,41081.66,10,0.345,,1930.02,0,10637.1,0,468.63
-"tailor shop, school uniforms and alterations",tailor shop,north,34528.74,12,0.25,1.0,2767.74,0,5773.15,0,204.24
-"wooden furniture workshop, custom orders",furniture workshop,highlands,12042.78,14,0.135,2.0,1086.4,2,9164.45,0,358.52
-"tailor shop, school uniforms and alterations",tailor shop,central,37885.51,13,0.474,3.0,,4,8858.43,0,629.09
-"wooden furniture workshop, custom orders",furniture workshop,south,13782.58,9,0.684,2.0,1147.34,3,4680.05,0,725.41
-barbershop plus kids cuts,hair salon,highlands,13285.38,5,0.636,5.0,720.26,5,4101.25,1,1440.44
-roadside bike puncture and oil change point,motorbike repair shop,north,25140.04,7,0.304,2.0,2649.02,3,17517.87,0,2467.04
-"grilled skewers stand, weekend crowds",street food stall,south,30660.35,14,0.02,0.0,1929.42,5,5883.82,0,199.15
-mobile top-up and accessories stand,phone accessories kiosk,north,18135.88,2,,2.0,943.26,2,11519.73,0,4451.17
-"hair salon, 4 chairs, walk-ins",hair salon,north,10885.69,4,0.082,1.0,,1,6073.54,0,409.59
-roadside bike puncture and oil change point,motorbike repair shop,central,16762.13,5,0.733,,932.79,2,6498.07,1,1282.83
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,89411.66,11,0.674,0.0,8527.14,0,59253.41,0,10891.07
-"noodle cart near bus station, cash only",street food stall,north,12828.09,8,,5.0,1023.42,4,9112.86,1,5179.41
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,33221.74,5,0.777,0.0,2231.71,0,7293.93,1,885.33
-"noodle cart near bus station, cash only",street food stall,highlands,37431.41,13,0.36,1.0,2889.38,6,20578.87,0,1480.79
-"wooden furniture workshop, custom orders",furniture workshop,north,83392.52,1,0.441,1.0,7903.45,1,34089.98,0,8064.88
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,10381.08,9,0.551,2.0,602.14,3,3958.12,0,1120.96
-mini mart near school gate,corner grocery,south,41181.45,7,0.451,,2793.59,1,9672.35,0,537.55
-"street food stall at night market, 2 tables",street food stall,central,104462.35,14,0.463,3.0,5972.98,5,41998.25,1,5001.7
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,9359.25,11,0.904,2.0,391.64,1,3041.9,0,615.9
-roadside bike puncture and oil change point,motorbike repair shop,north,14799.12,13,0.283,3.0,1503.95,4,10724.54,0,1213.08
-"family coffee garden, sun-dried beans",smallholder coffee farm,central,11268.24,13,0.214,2.0,946.57,2,7465.78,0,585.62
-"corner grocery, rice cooking oil snacks",corner grocery,central,6817.73,14,0.75,3.0,667.65,3,1201.23,1,182.89
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,67656.38,6,,3.0,2678.17,5,42201.21,0,9710.23
-mobile top-up and accessories stand,phone accessories kiosk,highlands,3017.99,8,,0.0,267.13,2,2171.51,0,159.97
-"wooden furniture workshop, custom orders",furniture workshop,central,19645.95,9,,,1941.22,1,12263.76,0,3149.03
-roadside bike puncture and oil change point,motorbike repair shop,central,16930.21,11,0.508,2.0,1719.3,1,12965.68,0,1403.69
-roadside bike puncture and oil change point,motorbike repair shop,north,110715.6,9,0.779,2.0,10064.94,2,52362.09,0,8438.48
-barbershop plus kids cuts,hair salon,south,15735.86,13,0.306,,683.55,4,8800.81,0,93.41
-"corner grocery, rice cooking oil snacks",corner grocery,north,75601.08,4,0.02,1.0,6892.84,3,47924.74,0,2146.68
-"tailor shop, school uniforms and alterations",tailor shop,central,46925.73,8,0.465,1.0,2287.51,1,33487.37,0,2853.25
-"tailor shop, school uniforms and alterations",tailor shop,south,18340.99,13,0.14,1.0,1021.06,1,14117.4,0,366.3
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,82443.57,2,,0.0,,0,13628.43,1,2706.74
-"corner grocery, rice cooking oil snacks",corner grocery,central,91764.15,11,0.658,2.0,,3,48724.34,0,5709.54
-"tailor shop, school uniforms and alterations",tailor shop,highlands,115569.07,10,,5.0,4363.78,5,28999.93,0,11117.66
-mini mart near school gate,corner grocery,highlands,45741.01,9,0.631,0.0,2011.5,1,35940.71,0,1879.87
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,39054.83,1,0.544,2.0,,2,26394.13,1,7799.64
-"hair salon, 4 chairs, walk-ins",hair salon,north,236221.35,5,0.831,3.0,8584.07,2,60000.0,1,29208.21
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,16855.45,5,,1.0,959.75,3,12034.71,0,829.01
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,5021.68,1,0.376,3.0,339.1,3,2781.66,0,1225.37
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,27336.1,6,0.315,1.0,,3,18063.66,0,2195.93
-"cabinet maker, deposits upfront",furniture workshop,central,29564.59,13,0.467,0.0,1309.66,4,7974.52,0,156.52
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,26635.67,5,,2.0,1045.69,3,5546.35,0,1742.38
-"cabinet maker, deposits upfront",furniture workshop,south,8942.05,5,0.405,3.0,627.59,1,2799.29,0,487.96
-"corner grocery, rice cooking oil snacks",corner grocery,highlands,53763.0,3,0.454,1.0,5389.09,3,16418.39,0,2318.04
-roadside bike puncture and oil change point,motorbike repair shop,central,22865.2,1,,1.0,2185.89,1,4283.06,0,735.21
-mini mart near school gate,corner grocery,highlands,3468.68,4,0.057,2.0,169.34,2,2708.89,0,264.06
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,8691.37,5,0.395,1.0,469.58,4,4235.63,0,515.96
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,37531.01,9,0.527,3.0,1468.3,3,10402.0,0,2919.93
-"sewing shop with 3 machines, regulars",tailor shop,south,18506.48,9,0.369,2.0,1001.02,3,10011.7,0,534.54
-roadside bike puncture and oil change point,motorbike repair shop,highlands,12902.68,7,0.561,,1199.53,2,4888.51,0,1306.59
-"tailor shop, school uniforms and alterations",tailor shop,central,15611.12,14,0.628,0.0,1607.6,3,8872.05,0,330.75
-"noodle cart near bus station, cash only",street food stall,central,24456.05,4,,2.0,2430.54,3,17939.18,1,9886.11
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,23606.39,6,0.517,2.0,1373.36,1,14217.95,1,4935.82
-"wooden furniture workshop, custom orders",furniture workshop,north,12507.78,14,0.592,3.0,944.93,1,2385.57,0,317.9
-"cabinet maker, deposits upfront",furniture workshop,central,17233.35,14,0.424,1.0,924.76,4,12221.34,0,237.35
-"wooden furniture workshop, custom orders",furniture workshop,highlands,12097.42,7,0.582,1.0,876.24,2,5744.55,0,1155.53
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,31547.21,14,0.341,,2599.97,2,21345.09,0,1101.74
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,7549.89,9,0.134,2.0,786.06,0,1208.55,0,85.45
-barbershop plus kids cuts,hair salon,north,13735.15,3,0.511,1.0,877.05,0,6101.84,0,904.45
-"wooden furniture workshop, custom orders",furniture workshop,central,32844.31,7,0.774,1.0,2676.93,3,24567.82,0,5184.33
-"corner grocery, rice cooking oil snacks",corner grocery,north,31554.39,0,0.491,1.0,3213.67,1,23615.78,0,6304.63
-roadside bike puncture and oil change point,motorbike repair shop,north,11393.44,6,,2.0,541.81,2,3844.23,1,1117.03
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,28212.4,2,0.092,2.0,,2,21871.64,1,3696.2
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,11192.9,5,0.532,1.0,562.23,2,3553.56,1,620.01
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,56249.36,1,0.619,1.0,2840.68,3,19666.42,0,7895.38
-mobile top-up and accessories stand,phone accessories kiosk,central,22562.56,14,0.428,,2260.31,5,4998.86,0,136.8
-"family coffee garden, sun-dried beans",smallholder coffee farm,north,84183.29,5,0.102,,4552.83,2,52643.52,0,5016.01
-"cabinet maker, deposits upfront",furniture workshop,north,30284.81,9,0.504,,1919.75,2,19993.85,1,2045.38
-mini mart near school gate,corner grocery,central,82693.78,2,0.568,2.0,5399.34,2,44241.2,1,12251.21
-"street food stall at night market, 2 tables",street food stall,south,39630.75,9,0.917,2.0,3681.32,3,6930.44,1,2221.52
-"corner grocery, rice cooking oil snacks",corner grocery,north,31716.98,4,0.757,1.0,,1,8451.18,0,1223.08
-"tailor shop, school uniforms and alterations",tailor shop,north,10330.65,11,0.183,2.0,595.79,5,3226.44,0,148.81
-"sewing shop with 3 machines, regulars",tailor shop,highlands,16169.84,1,,0.0,759.23,1,8407.92,0,370.12
-"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,21781.06,5,0.656,2.0,1270.87,2,15556.2,1,5899.15
-"cabinet maker, deposits upfront",furniture workshop,central,4749.83,13,0.236,0.0,461.67,1,3608.65,0,43.59
-"grilled skewers stand, weekend crowds",street food stall,central,14800.74,2,0.874,0.0,1419.48,3,3933.7,1,1430.27
-"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,144916.67,1,0.455,2.0,,3,54812.96,0,12693.61
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,13129.15,3,,,1338.5,3,4728.5,1,1212.11
-"wooden furniture workshop, custom orders",furniture workshop,south,15430.95,8,,1.0,1153.84,3,3029.03,0,224.1
-mobile top-up and accessories stand,phone accessories kiosk,south,36540.68,10,0.02,2.0,,4,24967.81,0,1049.63
-mini mart near school gate,corner grocery,north,25222.02,1,,2.0,1227.75,3,6285.13,0,1149.16
-"cabinet maker, deposits upfront",furniture workshop,central,37459.98,2,,0.0,1786.44,3,17558.73,0,1203.76
-"street food stall at night market, 2 tables",street food stall,north,32255.31,14,0.64,0.0,1872.08,3,6259.1,0,408.32
-"corner grocery, rice cooking oil snacks",corner grocery,central,32790.99,14,0.335,1.0,2951.56,1,25609.95,0,410.92
-"corner grocery, rice cooking oil snacks",corner grocery,north,7615.85,0,0.551,1.0,566.32,1,4487.77,0,1225.35
-mini mart near school gate,corner grocery,central,8642.68,3,0.342,2.0,740.01,0,1792.96,1,252.13
-"cabinet maker, deposits upfront",furniture workshop,central,24595.0,13,0.612,7.0,979.55,3,8659.36,1,3979.09
-"corner grocery, rice cooking oil snacks",corner grocery,north,21360.5,13,0.754,2.0,799.52,3,15062.23,0,1269.75
-mini mart near school gate,corner grocery,north,18649.38,5,,0.0,,2,12286.47,0,317.17
-"hair salon, 4 chairs, walk-ins",hair salon,south,13020.18,5,0.346,0.0,945.31,3,7170.58,0,351.55
-"tailor shop, school uniforms and alterations",tailor shop,north,17742.56,10,0.635,2.0,1068.87,2,4045.64,0,779.56
-mini mart near school gate,corner grocery,highlands,21704.26,3,,1.0,1605.03,3,13695.22,0,1697.0
-barbershop plus kids cuts,hair salon,south,15694.62,11,0.437,3.0,1314.79,0,6143.07,0,1333.38
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,19877.82,13,1.029,,695.98,4,5749.42,1,631.86
-"wooden furniture workshop, custom orders",furniture workshop,north,52554.01,4,0.566,,,3,34015.48,0,2957.71
-"hair salon, 4 chairs, walk-ins",hair salon,highlands,18146.47,12,0.211,0.0,827.99,1,8001.13,0,132.32
-"tailor shop, school uniforms and alterations",tailor shop,highlands,11400.87,3,0.24,,,1,5968.91,0,298.21
-"tailor shop, school uniforms and alterations",tailor shop,highlands,29105.85,12,0.431,0.0,1470.66,0,17831.84,0,483.25
-"sewing shop with 3 machines, regulars",tailor shop,highlands,96403.84,13,,2.0,3344.19,2,47453.56,0,1875.2
-"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,66243.41,8,,,6924.49,2,39637.03,0,6603.51
-"grilled skewers stand, weekend crowds",street food stall,highlands,40376.43,2,0.597,1.0,2250.44,1,27255.51,1,10140.82
-mini mart near school gate,corner grocery,highlands,27030.56,0,0.384,3.0,,4,17661.87,1,3684.56
-mini mart near school gate,corner grocery,highlands,54558.06,12,,3.0,4961.29,0,29606.42,0,3047.8
-roadside bike puncture and oil change point,motorbike repair shop,highlands,13360.65,9,0.045,1.0,790.83,2,9403.92,0,350.98
-phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,7991.83,1,0.366,3.0,717.26,1,3597.71,0,1009.86
-"cabinet maker, deposits upfront",furniture workshop,north,15054.6,5,,0.0,1526.84,2,5553.2,0,737.32
-"corner grocery, rice cooking oil snacks",corner grocery,north,12972.61,13,0.544,0.0,450.45,2,2728.18,0,36.54
-"family coffee garden, sun-dried beans",smallholder coffee farm,south,6992.67,9,0.67,2.0,458.71,5,1143.86,0,399.63
+"cabinet maker, deposits upfront",furniture workshop,north,14599.49,12,0.829,0.0,1115.59,0,11300.68,1,645.88
+barbershop plus kids cuts,hair salon,north,45889.79,2,0.447,3.0,1974.12,3,25936.33,1,7299.73
+"hair salon, 4 chairs, walk-ins",hair salon,central,31719.07,9,0.203,,1441.53,0,9183.93,0,542.28
+"cabinet maker, deposits upfront",furniture workshop,central,21723.96,13,0.335,0.0,1344.22,1,14986.47,0,212.41
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,1179.1,3,0.317,0.0,105.87,2,800.0,1,143.67
+mini mart near school gate,corner grocery,central,36174.45,10,0.189,2.0,2385.5,3,22528.04,0,901.09
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,27560.97,5,0.435,1.0,1469.03,3,18457.56,0,2278.58
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,52401.83,11,0.617,2.0,4731.65,3,22158.17,0,3253.32
+"street food stall at night market, 2 tables",street food stall,highlands,16110.62,5,0.173,3.0,703.54,3,12056.73,0,3365.86
+"sewing shop with 3 machines, regulars",tailor shop,central,12802.29,14,0.449,,1304.75,2,5859.76,0,75.58
+"tailor shop, school uniforms and alterations",tailor shop,central,9738.96,10,0.72,3.0,612.5,1,4647.13,1,1101.8
+"corner grocery, rice cooking oil snacks",corner grocery,north,10187.94,14,0.523,1.0,555.8,3,6765.09,0,426.44
+"wooden furniture workshop, custom orders",furniture workshop,highlands,31193.32,1,0.02,,,2,16843.88,1,2025.47
+"street food stall at night market, 2 tables",street food stall,highlands,20916.9,1,0.162,5.0,960.22,3,7616.52,1,4087.21
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,4623.83,1,0.254,,397.86,3,3203.32,0,1388.9
+mini mart near school gate,corner grocery,highlands,15575.69,7,0.168,1.0,,3,9735.62,0,296.63
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,14007.67,13,0.335,2.0,1090.15,1,3902.5,0,149.34
+mini mart near school gate,corner grocery,highlands,9130.42,6,,4.0,686.68,3,5853.03,0,946.46
+"grilled skewers stand, weekend crowds",street food stall,central,4670.9,5,0.613,2.0,292.25,5,1257.71,1,549.8
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,9177.88,4,0.02,3.0,489.65,3,6546.23,0,544.91
+mini mart near school gate,corner grocery,south,46034.12,6,0.21,2.0,,1,28046.0,1,1545.07
+"tailor shop, school uniforms and alterations",tailor shop,central,76577.07,7,0.35,1.0,6247.55,2,35206.24,0,3383.25
+"tailor shop, school uniforms and alterations",tailor shop,north,19448.16,14,0.258,,1265.15,2,6980.49,0,122.66
+"tailor shop, school uniforms and alterations",tailor shop,south,17769.69,8,0.508,2.0,1175.55,1,7762.97,1,1107.31
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,15717.88,2,0.206,0.0,740.53,1,7038.67,0,555.66
+"tailor shop, school uniforms and alterations",tailor shop,south,36167.05,6,0.565,2.0,3711.43,2,21018.5,0,3506.46
+"wooden furniture workshop, custom orders",furniture workshop,highlands,27154.23,14,0.061,1.0,,7,13125.54,0,181.12
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,32261.19,10,,1.0,1395.3,1,14223.48,0,1611.45
+mobile top-up and accessories stand,phone accessories kiosk,north,5030.55,10,0.595,,,1,2998.78,0,146.22
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,30998.55,10,0.446,1.0,2233.02,0,15733.35,1,2948.37
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,44669.6,11,0.315,,4027.55,4,7468.49,0,862.39
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,9654.62,7,0.285,2.0,543.03,0,2825.7,1,358.51
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,26449.56,6,0.274,2.0,1886.85,0,19178.75,0,3942.52
+"wooden furniture workshop, custom orders",furniture workshop,highlands,65441.44,6,0.95,0.0,4742.04,2,21085.38,0,3079.43
+mini mart near school gate,corner grocery,south,40042.0,14,0.26,1.0,1580.67,4,25585.19,0,340.48
+mini mart near school gate,corner grocery,south,41326.76,6,0.191,0.0,3296.67,1,20837.57,0,1212.39
+barbershop plus kids cuts,hair salon,central,34322.48,5,0.618,1.0,3249.47,1,9023.13,0,1883.25
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,40660.45,10,0.027,1.0,1877.67,3,9829.21,0,643.74
+"sewing shop with 3 machines, regulars",tailor shop,south,9840.87,1,0.148,1.0,971.08,1,4724.75,0,320.51
+"cabinet maker, deposits upfront",furniture workshop,north,12677.37,12,0.443,1.0,,1,4630.05,0,167.73
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,14870.05,11,0.429,3.0,651.27,3,6826.12,0,914.57
+roadside bike puncture and oil change point,motorbike repair shop,highlands,23700.92,2,0.823,0.0,,1,17700.67,1,8095.84
+mini mart near school gate,corner grocery,north,12085.18,6,,2.0,1139.6,4,9218.65,0,1346.07
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,12309.03,11,0.437,2.0,809.86,1,7878.96,0,1439.78
+mini mart near school gate,corner grocery,highlands,5930.26,3,0.409,2.0,341.42,2,3805.39,0,476.21
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,36144.86,13,0.44,2.0,1622.82,1,28204.6,0,2004.35
+"street food stall at night market, 2 tables",street food stall,highlands,14338.98,14,0.02,2.0,1038.46,3,2479.27,1,100.72
+"street food stall at night market, 2 tables",street food stall,north,10687.5,8,0.505,2.0,924.12,0,3305.23,0,942.21
+mobile top-up and accessories stand,phone accessories kiosk,central,65395.55,1,0.328,1.0,2798.64,1,48185.09,0,11424.22
+"street food stall at night market, 2 tables",street food stall,south,44108.87,7,0.488,,2331.43,5,32153.85,1,5787.62
+roadside bike puncture and oil change point,motorbike repair shop,highlands,17708.77,12,0.616,0.0,637.18,4,8470.99,0,418.3
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,56872.25,10,,2.0,5901.53,1,10227.07,0,1894.41
+"cabinet maker, deposits upfront",furniture workshop,north,23397.1,7,0.709,2.0,1046.14,4,15946.23,0,2744.76
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,50855.57,7,0.343,0.0,3330.62,1,15980.09,0,945.23
+mini mart near school gate,corner grocery,south,13224.9,7,0.344,0.0,1340.11,4,4453.48,0,176.67
+"cabinet maker, deposits upfront",furniture workshop,north,9198.71,8,0.647,2.0,354.51,2,5382.3,0,600.49
+mini mart near school gate,corner grocery,north,30801.22,12,0.222,1.0,3054.68,2,10438.62,0,260.43
+barbershop plus kids cuts,hair salon,north,57031.06,10,,,2707.85,2,16176.76,0,852.5
+mobile top-up and accessories stand,phone accessories kiosk,highlands,30721.98,6,0.894,2.0,,3,24392.52,1,7689.88
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,18059.45,10,0.092,0.0,1241.23,2,12228.44,0,571.48
+"tailor shop, school uniforms and alterations",tailor shop,highlands,20847.02,8,0.592,2.0,873.37,3,12882.57,0,1846.96
+mobile top-up and accessories stand,phone accessories kiosk,south,10784.25,12,0.105,3.0,589.73,3,8174.74,1,556.8
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,11727.67,9,0.02,0.0,873.72,1,6349.81,0,183.26
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,9328.51,6,0.05,1.0,919.52,3,6825.02,1,701.42
+"cabinet maker, deposits upfront",furniture workshop,highlands,24786.63,6,0.505,1.0,2208.78,1,19566.14,0,2001.6
+"noodle cart near bus station, cash only",street food stall,highlands,44547.29,8,0.398,1.0,3875.51,1,16086.42,0,2037.44
+"grilled skewers stand, weekend crowds",street food stall,north,56186.5,0,,3.0,4633.29,1,40572.73,1,15669.3
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,25412.17,7,0.736,2.0,2016.38,6,5916.07,1,2414.12
+"wooden furniture workshop, custom orders",furniture workshop,central,24941.08,9,0.539,1.0,2636.76,2,11520.36,0,923.11
+barbershop plus kids cuts,hair salon,highlands,32610.1,8,0.327,3.0,2336.22,2,16675.39,0,1047.36
+"wooden furniture workshop, custom orders",furniture workshop,central,94347.67,3,,,3149.57,3,60000.0,0,14037.72
+roadside bike puncture and oil change point,motorbike repair shop,central,50533.93,14,0.734,1.0,3140.59,4,40408.45,0,2537.75
+barbershop plus kids cuts,hair salon,highlands,48942.7,1,0.698,0.0,4898.63,3,23242.6,0,2888.34
+"tailor shop, school uniforms and alterations",tailor shop,south,10137.86,12,0.151,2.0,743.36,0,7709.66,0,263.08
+mobile top-up and accessories stand,phone accessories kiosk,central,63754.36,10,,1.0,5507.66,1,16862.53,0,2410.23
+"grilled skewers stand, weekend crowds",street food stall,south,80713.96,7,0.505,,4903.96,2,19896.26,1,4667.2
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,14654.52,12,0.142,2.0,975.99,2,8539.58,0,976.92
+mini mart near school gate,corner grocery,south,11627.1,11,0.437,2.0,440.9,4,2378.0,0,245.37
+"hair salon, 4 chairs, walk-ins",hair salon,north,5777.9,6,,2.0,,4,1848.27,0,193.31
+roadside bike puncture and oil change point,motorbike repair shop,south,4754.63,4,0.223,,400.03,2,2452.53,0,398.51
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,89087.67,5,0.522,2.0,7113.95,2,42007.41,1,14917.98
+"tailor shop, school uniforms and alterations",tailor shop,highlands,9065.97,5,0.141,1.0,,2,5758.47,0,289.23
+"wooden furniture workshop, custom orders",furniture workshop,highlands,14153.0,14,0.02,,864.96,3,8532.46,0,210.15
+"wooden furniture workshop, custom orders",furniture workshop,south,29760.06,6,0.107,0.0,1891.27,2,13416.09,0,367.43
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,3209.14,14,0.379,,305.06,4,1560.43,0,27.28
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,2271.9,11,0.627,4.0,,0,920.83,1,202.79
+"cabinet maker, deposits upfront",furniture workshop,north,18973.44,12,0.423,,1352.11,1,15035.8,0,254.77
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,24453.36,0,0.262,2.0,1009.89,0,9217.5,0,2328.54
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,45254.45,2,0.523,0.0,4711.77,1,25971.14,1,1783.7
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,24098.59,6,0.095,2.0,2592.69,1,11365.41,0,438.65
+"noodle cart near bus station, cash only",street food stall,north,239072.47,3,,2.0,14981.77,2,47624.96,1,19776.37
+barbershop plus kids cuts,hair salon,south,27783.48,4,0.137,0.0,1569.96,4,9541.86,0,513.48
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,28364.72,5,0.425,,951.43,2,5535.38,0,855.12
+"grilled skewers stand, weekend crowds",street food stall,central,42965.61,13,0.401,2.0,,3,13055.12,0,1409.49
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,43804.37,6,0.77,1.0,1799.83,3,12879.2,0,5645.46
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,15818.26,2,0.59,4.0,1526.55,2,5821.22,0,2815.14
+barbershop plus kids cuts,hair salon,central,24464.47,2,0.336,5.0,1499.24,0,8059.95,1,2795.91
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,83415.74,0,0.846,4.0,8255.29,2,24215.21,1,11943.98
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,39831.02,6,0.415,1.0,3176.95,1,19261.13,0,4375.89
+mini mart near school gate,corner grocery,highlands,157626.16,12,0.359,,13520.75,1,35952.26,1,700.52
+"hair salon, 4 chairs, walk-ins",hair salon,north,15845.05,11,0.44,2.0,757.96,2,5919.22,0,437.08
+"sewing shop with 3 machines, regulars",tailor shop,south,58068.29,8,0.237,1.0,6056.21,2,28246.8,0,1119.4
+barbershop plus kids cuts,hair salon,highlands,29609.37,5,0.287,0.0,1991.2,1,10094.38,0,483.81
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,26152.24,3,0.241,,1199.72,4,7825.75,0,1596.93
+"grilled skewers stand, weekend crowds",street food stall,central,6000.26,6,0.418,,,1,3433.31,0,456.3
+"noodle cart near bus station, cash only",street food stall,north,9517.24,12,0.486,,839.28,2,5053.58,0,811.88
+barbershop plus kids cuts,hair salon,highlands,5881.02,6,0.02,1.0,267.0,1,3874.62,0,96.34
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,7771.42,4,0.198,4.0,,1,5973.48,1,1758.24
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,29945.15,8,0.713,2.0,2999.01,0,21728.9,0,6172.04
+"tailor shop, school uniforms and alterations",tailor shop,north,6750.79,2,0.537,0.0,,0,2440.83,1,135.95
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,12119.95,1,0.668,3.0,1174.13,5,8654.57,1,4920.52
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,59655.95,1,0.739,0.0,2181.86,2,26709.96,1,9526.6
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,111294.36,12,0.572,1.0,8654.17,3,37810.55,0,2234.74
+"corner grocery, rice cooking oil snacks",corner grocery,south,61957.26,7,0.059,1.0,6550.12,3,41871.4,0,493.09
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,6251.75,12,0.119,2.0,308.77,0,3862.28,1,149.29
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,115720.28,8,0.512,3.0,11100.9,3,60000.0,0,12035.02
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,30455.4,4,0.246,1.0,3279.81,1,15089.67,0,2704.27
+"cabinet maker, deposits upfront",furniture workshop,highlands,3502.07,0,0.349,0.0,332.76,5,1459.04,1,167.19
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,89603.98,4,0.376,2.0,5408.45,3,60000.0,0,16429.99
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,13877.39,4,0.423,3.0,1011.71,4,7237.7,0,2543.52
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,11756.42,11,,3.0,803.95,1,5496.13,1,1942.83
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,78283.13,1,0.653,,6987.04,4,58357.6,1,26784.29
+mobile top-up and accessories stand,phone accessories kiosk,central,133567.16,4,0.782,,12007.8,1,60000.0,0,12653.33
+"hair salon, 4 chairs, walk-ins",hair salon,central,145537.65,9,0.624,1.0,6618.99,1,60000.0,0,2575.46
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,20081.66,13,0.363,2.0,1462.67,4,3254.33,0,223.45
+barbershop plus kids cuts,hair salon,north,19024.27,9,0.388,3.0,948.29,1,3657.69,0,601.62
+"wooden furniture workshop, custom orders",furniture workshop,north,12394.24,10,0.325,2.0,499.34,2,2217.57,0,149.59
+roadside bike puncture and oil change point,motorbike repair shop,south,106025.98,6,0.174,2.0,8340.81,1,25083.01,0,2099.12
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,24019.36,1,0.02,,1179.03,1,4211.83,0,448.15
+mobile top-up and accessories stand,phone accessories kiosk,north,14036.55,3,0.253,,1295.32,1,2740.02,0,788.19
+"sewing shop with 3 machines, regulars",tailor shop,north,8582.08,12,0.694,0.0,701.67,0,5562.28,0,134.16
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,51297.53,5,0.163,0.0,2747.97,1,11228.72,0,1228.48
+"grilled skewers stand, weekend crowds",street food stall,highlands,11166.92,5,0.475,2.0,1133.3,5,8040.08,1,3085.42
+mobile top-up and accessories stand,phone accessories kiosk,highlands,6361.76,10,0.58,2.0,462.63,4,3030.08,1,278.1
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,6574.95,11,0.839,3.0,464.1,2,1364.73,0,169.76
+"street food stall at night market, 2 tables",street food stall,central,145088.66,14,0.02,2.0,6469.48,2,46143.67,0,2442.37
+mobile top-up and accessories stand,phone accessories kiosk,central,22575.13,3,,2.0,2175.31,5,5217.19,0,863.5
+"cabinet maker, deposits upfront",furniture workshop,south,5363.04,14,0.488,0.0,565.16,4,1140.81,0,19.22
+"cabinet maker, deposits upfront",furniture workshop,central,39296.54,13,0.772,3.0,3846.85,5,28911.01,0,5324.03
+roadside bike puncture and oil change point,motorbike repair shop,north,86274.04,11,,1.0,3513.12,2,40007.79,1,2342.6
+"noodle cart near bus station, cash only",street food stall,highlands,5847.45,13,0.808,0.0,530.04,1,4384.84,0,553.58
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,17318.88,13,0.49,,1481.7,2,5939.67,0,169.63
+"street food stall at night market, 2 tables",street food stall,central,77676.43,0,,2.0,,6,59294.94,0,16152.22
+"tailor shop, school uniforms and alterations",tailor shop,north,125034.37,6,0.545,0.0,,1,49858.92,0,2523.35
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,170974.77,5,0.695,,,3,60000.0,1,10561.28
+"corner grocery, rice cooking oil snacks",corner grocery,north,11666.61,11,0.922,2.0,821.11,0,7667.7,0,1363.04
+"street food stall at night market, 2 tables",street food stall,highlands,81344.6,10,0.804,2.0,8716.92,0,27609.22,0,6293.53
+barbershop plus kids cuts,hair salon,north,9045.78,14,0.214,1.0,524.4,3,5498.47,0,73.34
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,31153.34,7,,3.0,2817.1,1,23926.68,0,7153.49
+roadside bike puncture and oil change point,motorbike repair shop,south,15148.85,8,0.337,1.0,,5,10609.94,0,916.17
+mini mart near school gate,corner grocery,central,26153.11,0,,1.0,2585.07,0,16846.74,0,2645.74
+"corner grocery, rice cooking oil snacks",corner grocery,central,28149.78,2,0.405,3.0,2430.64,2,6604.14,1,1950.23
+mobile top-up and accessories stand,phone accessories kiosk,highlands,11996.42,13,0.255,0.0,718.62,6,4840.39,0,81.03
+"cabinet maker, deposits upfront",furniture workshop,highlands,31302.22,13,0.157,1.0,1599.89,3,16795.17,0,197.24
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,18760.73,6,0.692,3.0,963.47,4,9722.05,1,3136.07
+"wooden furniture workshop, custom orders",furniture workshop,south,23660.02,6,0.58,1.0,1576.49,1,9841.97,0,2209.1
+"cabinet maker, deposits upfront",furniture workshop,highlands,5780.27,11,0.677,2.0,397.29,3,3002.72,0,407.9
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,11189.84,13,0.595,,518.28,2,7095.32,1,977.45
+"sewing shop with 3 machines, regulars",tailor shop,central,16757.18,7,0.534,2.0,803.32,4,3209.06,0,364.29
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,44218.71,7,,1.0,3097.89,1,21223.52,0,4520.67
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,10879.24,9,0.02,2.0,669.68,3,7710.61,0,468.74
+roadside bike puncture and oil change point,motorbike repair shop,north,32057.47,5,0.27,1.0,,3,25439.92,0,3423.95
+"corner grocery, rice cooking oil snacks",corner grocery,south,10865.3,1,0.311,,1088.78,4,6532.96,1,1376.26
+"cabinet maker, deposits upfront",furniture workshop,highlands,35139.15,3,0.686,0.0,1821.3,6,8511.45,0,1134.75
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,35966.59,12,0.35,1.0,,2,23270.03,0,2823.17
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,13186.55,5,0.559,2.0,1350.78,5,9686.5,1,1946.32
+"grilled skewers stand, weekend crowds",street food stall,north,23470.46,9,0.731,1.0,,0,8465.13,0,2519.11
+roadside bike puncture and oil change point,motorbike repair shop,highlands,6588.41,12,0.258,0.0,409.43,3,1246.26,0,37.21
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,14784.31,14,,1.0,1067.68,2,3685.88,0,253.34
+"wooden furniture workshop, custom orders",furniture workshop,south,71233.72,6,0.374,2.0,,1,10796.89,0,1871.34
+"cabinet maker, deposits upfront",furniture workshop,south,31282.35,6,0.117,0.0,,1,14378.69,0,189.45
+barbershop plus kids cuts,hair salon,highlands,26884.89,9,0.61,0.0,,2,14455.32,0,1445.74
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,31725.73,6,,2.0,,3,16791.57,0,4432.31
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,57964.31,11,0.073,1.0,2415.99,1,20362.38,0,1017.42
+"grilled skewers stand, weekend crowds",street food stall,central,41867.0,9,,3.0,1651.57,2,13363.78,0,4434.0
+mobile top-up and accessories stand,phone accessories kiosk,central,34686.74,9,0.712,,,5,15895.03,1,3985.19
+"wooden furniture workshop, custom orders",furniture workshop,north,45590.67,10,,3.0,,1,11626.89,0,3011.18
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,33101.26,2,0.706,0.0,2791.99,1,10265.31,1,2314.32
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,4087.67,8,0.255,,238.66,5,2421.57,0,579.98
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,7473.96,1,0.49,3.0,673.43,3,1398.01,1,330.27
+"hair salon, 4 chairs, walk-ins",hair salon,north,35926.93,12,0.365,2.0,3408.97,3,19103.38,0,680.5
+"street food stall at night market, 2 tables",street food stall,central,30315.54,9,0.506,1.0,1245.07,4,11239.57,0,1528.2
+"wooden furniture workshop, custom orders",furniture workshop,central,18057.0,12,0.195,1.0,,0,10021.41,0,269.4
+"wooden furniture workshop, custom orders",furniture workshop,south,17507.55,9,,3.0,,6,7766.13,1,1183.66
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,60667.02,0,,0.0,3952.94,2,40726.93,1,8576.72
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,89761.51,10,0.02,2.0,6756.65,1,29441.82,0,837.2
+"corner grocery, rice cooking oil snacks",corner grocery,north,45885.57,5,,1.0,4500.5,3,9118.55,0,372.14
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,61060.73,9,0.715,1.0,6594.28,2,39623.93,0,8064.44
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,52893.02,6,,0.0,3417.09,0,23027.6,1,4258.44
+"tailor shop, school uniforms and alterations",tailor shop,highlands,83146.12,4,0.428,3.0,5671.1,1,16001.36,0,3394.42
+mobile top-up and accessories stand,phone accessories kiosk,highlands,108365.63,2,0.54,3.0,,0,52904.6,1,16806.81
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,43110.51,13,0.295,0.0,3825.16,4,34382.4,0,773.99
+"grilled skewers stand, weekend crowds",street food stall,highlands,9811.13,7,,2.0,963.54,1,2246.99,1,771.16
+"noodle cart near bus station, cash only",street food stall,south,10948.92,4,0.469,1.0,,0,3450.86,1,1194.23
+"hair salon, 4 chairs, walk-ins",hair salon,central,37011.3,1,0.684,2.0,1262.2,4,22843.62,0,10732.44
+"sewing shop with 3 machines, regulars",tailor shop,central,15521.21,13,0.335,3.0,1211.93,1,6140.3,0,116.64
+mini mart near school gate,corner grocery,south,30602.85,2,0.446,,3207.7,2,13950.19,0,1074.16
+"noodle cart near bus station, cash only",street food stall,central,52230.81,14,0.139,2.0,2168.19,2,36224.33,1,2075.37
+"cabinet maker, deposits upfront",furniture workshop,central,28424.54,11,0.6,4.0,969.69,3,22614.14,1,5184.15
+"street food stall at night market, 2 tables",street food stall,north,8030.9,12,0.254,2.0,816.13,2,4494.04,1,364.26
+mobile top-up and accessories stand,phone accessories kiosk,highlands,6296.34,2,,4.0,552.94,3,1853.64,0,870.68
+"wooden furniture workshop, custom orders",furniture workshop,north,25388.86,5,,0.0,948.85,0,18526.16,0,2160.19
+"grilled skewers stand, weekend crowds",street food stall,central,6332.61,6,,1.0,,2,2439.34,0,533.53
+barbershop plus kids cuts,hair salon,central,8533.49,7,0.99,3.0,870.4,0,2525.49,1,1067.51
+barbershop plus kids cuts,hair salon,north,45893.06,8,0.199,0.0,,1,26051.97,0,932.94
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,142366.89,6,1.248,2.0,,2,57079.32,1,43889.35
+"grilled skewers stand, weekend crowds",street food stall,north,42211.54,13,0.02,2.0,4199.31,4,26980.54,0,1144.04
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,41697.67,12,0.341,2.0,1990.98,1,11290.08,0,708.82
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,42047.35,9,0.64,2.0,2354.37,6,12531.11,0,2471.09
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,54281.26,13,0.531,1.0,4479.1,0,42217.44,0,1453.31
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,8936.85,12,0.641,3.0,439.42,2,3428.73,1,514.3
+"tailor shop, school uniforms and alterations",tailor shop,central,129844.98,8,0.399,3.0,12799.74,1,60000.0,0,4239.21
+"grilled skewers stand, weekend crowds",street food stall,central,21405.41,14,0.866,,732.96,3,9801.34,0,1400.39
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,5973.51,8,0.465,3.0,571.32,2,917.47,1,358.59
+"tailor shop, school uniforms and alterations",tailor shop,central,49413.0,7,0.566,2.0,,1,7594.7,0,1394.27
+barbershop plus kids cuts,hair salon,central,39557.72,4,0.212,1.0,3714.84,1,16578.77,0,1924.77
+mini mart near school gate,corner grocery,central,12204.78,6,0.226,1.0,767.31,2,2561.97,0,149.27
+"tailor shop, school uniforms and alterations",tailor shop,central,14594.97,6,0.369,1.0,1410.18,0,9218.36,0,732.22
+"wooden furniture workshop, custom orders",furniture workshop,north,20524.94,2,0.348,2.0,952.76,3,11431.45,0,4401.76
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,12512.3,8,0.431,,956.59,2,7908.38,0,1179.17
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,11865.85,13,0.814,1.0,482.81,6,8341.63,0,842.61
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,14956.86,0,0.883,2.0,,2,2618.35,0,1161.81
+mini mart near school gate,corner grocery,north,24234.77,5,0.407,,809.44,3,7908.2,0,434.28
+"cabinet maker, deposits upfront",furniture workshop,highlands,35288.99,6,0.872,0.0,2879.25,3,23860.02,1,2494.79
+"wooden furniture workshop, custom orders",furniture workshop,highlands,31154.26,9,1.05,1.0,3218.35,4,13182.6,0,4594.22
+roadside bike puncture and oil change point,motorbike repair shop,south,29095.11,5,0.416,2.0,2953.55,2,5227.72,0,1223.54
+mobile top-up and accessories stand,phone accessories kiosk,highlands,17988.74,9,0.482,3.0,784.74,2,8332.0,0,1706.33
+"wooden furniture workshop, custom orders",furniture workshop,highlands,51095.91,0,0.531,2.0,3837.83,3,12223.01,0,3637.08
+"sewing shop with 3 machines, regulars",tailor shop,central,18637.97,4,0.685,1.0,1369.35,1,6089.41,0,1142.12
+"noodle cart near bus station, cash only",street food stall,south,8085.14,8,0.426,0.0,794.78,1,5987.45,0,864.16
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,south,9607.85,11,0.055,1.0,794.21,1,7324.75,0,276.39
+"corner grocery, rice cooking oil snacks",corner grocery,north,82859.22,2,0.02,,8113.67,3,39893.08,0,1102.11
+"hair salon, 4 chairs, walk-ins",hair salon,north,10586.47,10,0.378,0.0,1098.46,1,4225.27,0,221.74
+"corner grocery, rice cooking oil snacks",corner grocery,central,34705.71,2,0.786,1.0,1375.48,2,24152.42,0,4923.08
+"hair salon, 4 chairs, walk-ins",hair salon,central,6907.36,12,,2.0,,1,3791.88,0,624.32
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,30323.73,9,0.537,4.0,1585.33,0,22928.72,1,8422.52
+mini mart near school gate,corner grocery,central,9743.89,1,0.418,,390.0,2,3364.35,0,446.17
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,127358.69,13,,3.0,6126.61,4,60000.0,0,13056.62
+"corner grocery, rice cooking oil snacks",corner grocery,central,7698.64,12,0.469,2.0,419.49,2,3076.33,0,145.34
+mini mart near school gate,corner grocery,highlands,41892.91,11,0.481,1.0,3584.96,3,23608.94,1,2095.74
+"wooden furniture workshop, custom orders",furniture workshop,highlands,6284.14,3,0.306,0.0,,2,1487.12,0,184.02
+"street food stall at night market, 2 tables",street food stall,highlands,34254.48,7,0.258,0.0,3607.63,1,16861.19,0,2104.93
+mini mart near school gate,corner grocery,north,70209.33,9,0.41,1.0,3877.66,3,40142.19,0,1723.26
+barbershop plus kids cuts,hair salon,central,35508.5,11,0.378,4.0,2523.59,1,17846.97,0,774.35
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,4936.06,4,0.342,2.0,382.68,0,3791.63,0,744.11
+"corner grocery, rice cooking oil snacks",corner grocery,south,18469.32,14,0.533,0.0,1227.52,1,5121.65,0,166.76
+"wooden furniture workshop, custom orders",furniture workshop,south,49985.83,5,0.579,0.0,5405.79,2,10719.07,0,1583.61
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,12558.68,0,0.813,1.0,,0,9445.8,1,6671.11
+"grilled skewers stand, weekend crowds",street food stall,south,83825.65,4,0.355,,4071.59,5,13344.42,0,1461.54
+barbershop plus kids cuts,hair salon,south,221479.36,5,0.33,2.0,11329.17,2,60000.0,0,9707.37
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,12397.83,12,0.474,1.0,1299.62,3,9782.36,1,713.92
+roadside bike puncture and oil change point,motorbike repair shop,central,11767.9,8,,1.0,747.48,5,3400.89,1,1155.68
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,47001.35,2,0.053,2.0,2722.31,1,12649.32,0,2749.1
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,10750.12,6,0.452,2.0,1024.48,1,4017.99,0,1089.46
+"cabinet maker, deposits upfront",furniture workshop,central,15738.49,5,0.184,1.0,1362.54,1,4510.81,0,279.81
+"sewing shop with 3 machines, regulars",tailor shop,north,15246.58,6,0.346,1.0,,0,7748.03,0,248.82
+"grilled skewers stand, weekend crowds",street food stall,highlands,20899.82,9,0.691,,,1,9080.29,0,982.34
+roadside bike puncture and oil change point,motorbike repair shop,highlands,13617.63,3,0.606,0.0,922.93,0,7396.71,0,1890.38
+mobile top-up and accessories stand,phone accessories kiosk,north,99548.19,12,0.56,1.0,7743.99,1,15957.56,1,868.59
+"tailor shop, school uniforms and alterations",tailor shop,highlands,58512.86,0,0.333,3.0,4202.93,3,26926.22,1,11042.66
+"tailor shop, school uniforms and alterations",tailor shop,highlands,27182.28,11,0.589,0.0,925.96,1,15805.58,0,843.32
+"cabinet maker, deposits upfront",furniture workshop,central,64334.28,9,0.749,1.0,,1,16462.14,0,1324.22
+mini mart near school gate,corner grocery,highlands,4914.55,2,0.107,0.0,169.23,2,2994.4,0,198.98
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,6098.11,9,0.423,1.0,380.1,1,3272.45,1,527.5
+"cabinet maker, deposits upfront",furniture workshop,central,16778.15,13,0.323,2.0,908.34,0,11339.0,0,326.3
+"sewing shop with 3 machines, regulars",tailor shop,south,19336.09,6,0.658,1.0,1185.15,3,6461.2,0,363.0
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,18155.2,3,0.497,1.0,1380.53,1,5084.09,1,828.79
+"sewing shop with 3 machines, regulars",tailor shop,south,4348.12,10,0.165,2.0,251.31,3,1070.75,0,38.28
+"street food stall at night market, 2 tables",street food stall,highlands,50236.71,3,0.119,1.0,2504.59,3,32113.76,1,8829.2
+"cabinet maker, deposits upfront",furniture workshop,north,40287.94,10,0.456,,3674.77,1,29043.32,0,2226.12
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,41896.09,7,0.639,,3356.12,1,28937.45,1,6329.77
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,north,95452.62,12,0.426,1.0,,3,48204.89,0,2914.77
+roadside bike puncture and oil change point,motorbike repair shop,south,7418.46,14,0.331,2.0,496.2,0,2186.48,0,107.2
+"cabinet maker, deposits upfront",furniture workshop,central,25591.54,10,0.493,0.0,1978.43,1,10895.82,1,192.87
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,28553.4,13,0.4,2.0,1480.98,1,4815.18,0,265.48
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,16764.52,7,0.54,,930.77,3,8263.98,0,1615.62
+"wooden furniture workshop, custom orders",furniture workshop,north,26537.04,0,0.524,0.0,1971.87,2,16116.92,0,5190.99
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,11108.99,10,0.516,0.0,593.78,1,6645.17,0,875.36
+"cabinet maker, deposits upfront",furniture workshop,highlands,15037.04,3,0.476,1.0,704.97,3,8018.78,1,1504.64
+"wooden furniture workshop, custom orders",furniture workshop,highlands,13710.65,14,0.791,3.0,1042.13,1,3891.19,1,1074.48
+"corner grocery, rice cooking oil snacks",corner grocery,north,21735.83,10,,1.0,1848.3,2,15512.69,0,232.42
+"hair salon, 4 chairs, walk-ins",hair salon,north,41082.51,1,0.885,,3952.41,1,20806.36,1,12702.1
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,10464.81,7,0.481,3.0,694.79,2,1660.82,1,731.06
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,114184.63,14,0.8,,9165.59,1,60000.0,0,17078.99
+mini mart near school gate,corner grocery,highlands,33186.25,13,0.351,0.0,2003.62,1,24275.97,0,687.83
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,3404.38,3,0.103,1.0,338.51,1,1137.38,0,134.64
+"wooden furniture workshop, custom orders",furniture workshop,south,18771.63,9,0.814,1.0,1329.99,1,11784.45,0,3068.79
+"wooden furniture workshop, custom orders",furniture workshop,north,16152.38,1,0.549,,1518.93,2,11795.65,1,4892.46
+"sewing shop with 3 machines, regulars",tailor shop,north,34107.65,10,0.335,1.0,2485.49,2,8293.33,0,172.42
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,53303.1,9,0.036,,3785.96,2,22030.45,0,1836.34
+barbershop plus kids cuts,hair salon,central,15406.17,3,0.414,3.0,1455.35,1,9717.37,0,1620.02
+"wooden furniture workshop, custom orders",furniture workshop,highlands,47340.87,14,0.254,4.0,,0,20364.23,0,1318.53
+"grilled skewers stand, weekend crowds",street food stall,north,11597.83,5,0.128,,1244.38,3,4142.1,1,481.46
+"street food stall at night market, 2 tables",street food stall,highlands,34528.03,5,0.457,,1502.01,2,14823.34,0,3468.35
+roadside bike puncture and oil change point,motorbike repair shop,highlands,8510.63,9,,3.0,459.79,1,5613.62,1,905.42
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,18129.18,0,0.487,0.0,1703.17,2,3129.56,0,902.05
+roadside bike puncture and oil change point,motorbike repair shop,highlands,6655.46,7,0.425,,396.26,2,2770.68,0,212.91
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,18284.46,6,0.81,1.0,719.3,0,4236.17,1,1344.15
+"family coffee garden, sun-dried beans",smallholder coffee farm,central,27992.66,12,0.794,1.0,2108.93,2,15972.7,0,1796.02
+"wooden furniture workshop, custom orders",furniture workshop,central,5959.27,13,0.792,2.0,485.23,2,1207.87,0,237.49
+"hair salon, 4 chairs, walk-ins",hair salon,north,28195.99,4,,1.0,1328.89,1,12408.58,1,653.72
+"sewing shop with 3 machines, regulars",tailor shop,north,10310.4,0,0.196,1.0,493.84,2,5159.27,0,634.56
+mini mart near school gate,corner grocery,highlands,42538.27,3,0.491,4.0,4442.52,1,19062.74,0,6525.3
+"corner grocery, rice cooking oil snacks",corner grocery,south,7044.26,14,0.573,3.0,311.08,2,5291.78,0,548.06
+barbershop plus kids cuts,hair salon,central,24682.89,8,0.144,1.0,1309.45,3,14809.72,0,373.0
+"hair salon, 4 chairs, walk-ins",hair salon,central,29756.37,5,0.377,1.0,2583.75,1,10965.13,0,1368.54
+"sewing shop with 3 machines, regulars",tailor shop,highlands,27108.6,13,0.349,1.0,1112.29,4,14414.4,0,198.27
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,3127.9,1,0.239,0.0,301.83,4,1582.94,0,65.99
+roadside bike puncture and oil change point,motorbike repair shop,highlands,16993.52,14,0.445,,1243.52,6,9558.87,0,1048.71
+"hair salon, 4 chairs, walk-ins",hair salon,north,9010.59,0,0.436,,662.18,4,5357.26,1,1678.02
+"wooden furniture workshop, custom orders",furniture workshop,central,26400.28,11,0.02,3.0,1058.42,4,17979.38,0,1578.59
+"wooden furniture workshop, custom orders",furniture workshop,central,15060.59,9,0.02,4.0,903.53,4,3443.35,0,341.55
+"sewing shop with 3 machines, regulars",tailor shop,north,28668.97,0,0.02,1.0,,1,8149.83,0,387.03
+"tailor shop, school uniforms and alterations",tailor shop,north,36377.83,1,0.487,2.0,,2,12476.98,0,6068.44
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,33371.55,3,0.02,0.0,1599.29,3,13796.4,0,1358.36
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,37143.99,10,0.915,2.0,2817.49,1,12429.07,1,2714.89
+"hair salon, 4 chairs, walk-ins",hair salon,central,70334.92,3,0.296,,5130.69,2,20516.64,1,4045.03
+roadside bike puncture and oil change point,motorbike repair shop,south,40157.7,1,0.376,1.0,1517.63,2,12281.1,0,2478.12
+roadside bike puncture and oil change point,motorbike repair shop,central,74112.04,4,0.575,0.0,2737.47,2,21096.65,0,3339.46
+"noodle cart near bus station, cash only",street food stall,highlands,20642.18,2,0.324,0.0,,2,10686.05,1,4228.48
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,central,42189.47,13,0.594,0.0,2353.49,0,26250.85,1,4450.1
+roadside bike puncture and oil change point,motorbike repair shop,highlands,8458.52,0,0.023,5.0,756.91,2,6440.75,0,2982.9
+"sewing shop with 3 machines, regulars",tailor shop,south,12726.41,2,0.529,1.0,737.64,1,7937.05,1,1688.48
+"cabinet maker, deposits upfront",furniture workshop,highlands,26081.27,2,,1.0,2775.84,0,19040.53,0,1973.95
+"corner grocery, rice cooking oil snacks",corner grocery,central,25697.18,5,,3.0,1574.38,5,19362.32,0,2355.53
+mini mart near school gate,corner grocery,central,6758.14,8,0.581,0.0,261.81,0,4244.04,0,239.69
+"family coffee garden, sun-dried beans",smallholder coffee farm,south,12713.66,2,0.576,1.0,647.33,3,4355.32,1,1464.03
+"grilled skewers stand, weekend crowds",street food stall,south,25233.74,0,,,857.69,5,18743.9,1,10707.37
+barbershop plus kids cuts,hair salon,north,17223.04,2,0.378,0.0,1131.11,3,6407.76,0,435.4
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,central,11252.42,4,0.316,,662.62,1,8281.47,1,3253.49
+"wooden furniture workshop, custom orders",furniture workshop,highlands,10048.27,13,0.609,1.0,885.86,0,3611.79,0,331.64
+mobile top-up and accessories stand,phone accessories kiosk,highlands,9650.39,3,,0.0,411.86,2,3611.09,0,809.04
+roadside bike puncture and oil change point,motorbike repair shop,south,15841.14,1,0.02,,,0,10393.66,0,1597.02
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,76724.44,2,0.23,,,5,21294.76,0,4696.34
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,40034.57,6,0.02,2.0,2506.24,3,6086.11,0,930.98
+"hair salon, 4 chairs, walk-ins",hair salon,central,183341.79,3,0.512,2.0,14735.52,1,60000.0,1,20373.11
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,highlands,33252.7,14,0.203,2.0,2691.13,1,18421.88,0,899.96
+"sewing shop with 3 machines, regulars",tailor shop,north,48370.21,14,1.18,3.0,2986.81,4,28100.36,0,2409.12
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,north,10943.7,8,0.392,3.0,981.68,3,7523.87,0,1732.72
+"cabinet maker, deposits upfront",furniture workshop,south,56653.55,5,0.384,1.0,2456.94,3,40758.62,1,3709.98
+mini mart near school gate,corner grocery,south,21529.85,13,0.416,1.0,1530.48,1,9998.53,0,196.47
+mobile top-up and accessories stand,phone accessories kiosk,highlands,19253.78,3,0.544,1.0,938.22,1,14932.61,1,5975.71
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,south,3458.07,10,0.02,1.0,286.8,2,2429.54,0,106.08
+"hair salon, 4 chairs, walk-ins",hair salon,south,15794.57,7,0.842,0.0,1331.63,3,11847.86,0,1729.35
+mobile top-up and accessories stand,phone accessories kiosk,highlands,38089.92,0,0.591,,3528.37,4,10076.07,0,4750.69
+barbershop plus kids cuts,hair salon,south,87089.82,5,0.048,1.0,3462.91,2,57672.43,1,2521.19
+"street food stall at night market, 2 tables",street food stall,south,32388.64,6,0.377,1.0,1883.45,1,8191.96,1,1666.19
+roadside bike puncture and oil change point,motorbike repair shop,south,28597.67,6,0.457,4.0,,3,18029.19,0,6328.22
+"hair salon, 4 chairs, walk-ins",hair salon,highlands,10274.6,6,0.659,0.0,859.98,1,5819.36,0,974.6
+"street food stall at night market, 2 tables",street food stall,central,66923.72,10,0.146,3.0,6412.69,1,40053.65,1,5135.42
+barbershop plus kids cuts,hair salon,south,45180.88,5,0.541,,3113.95,1,18548.02,0,2490.83
+phone cases and chargers kiosk in mall corridor,phone accessories kiosk,south,11727.34,12,0.884,3.0,573.71,2,5309.68,0,1507.01
+"noodle cart near bus station, cash only",street food stall,highlands,18603.55,2,0.339,0.0,929.42,5,10478.26,0,2420.26
+"corner grocery, rice cooking oil snacks",corner grocery,highlands,27184.35,7,0.573,1.0,2905.82,0,16232.73,0,1055.6
+"hair salon, 4 chairs, walk-ins",hair salon,south,9990.11,0,,3.0,484.22,3,6174.74,1,3622.45
+mini mart near school gate,corner grocery,highlands,36541.36,12,0.201,0.0,2092.77,0,28940.82,0,166.36
+"cabinet maker, deposits upfront",furniture workshop,central,11564.28,14,0.214,,461.48,5,6695.1,0,316.02
+barbershop plus kids cuts,hair salon,north,19954.6,13,0.253,2.0,2040.08,0,5981.22,0,160.73
+"corner grocery, rice cooking oil snacks",corner grocery,north,29109.55,12,0.702,1.0,2741.16,0,17858.01,1,873.86
+"noodle cart near bus station, cash only",street food stall,south,57050.48,4,0.888,2.0,3050.98,1,21910.46,0,12035.36
+"cabinet maker, deposits upfront",furniture workshop,north,29002.23,7,0.645,6.0,1706.2,1,21387.95,1,10329.95
+"cabinet maker, deposits upfront",furniture workshop,south,11051.11,13,0.522,4.0,655.14,4,7637.81,1,1331.27
+barbershop plus kids cuts,hair salon,central,1326.87,6,,,127.26,4,800.0,0,85.34
+"corner grocery, rice cooking oil snacks",corner grocery,south,396366.65,13,0.02,3.0,30420.02,1,60000.0,0,784.61
+barbershop plus kids cuts,hair salon,highlands,16229.45,8,0.455,2.0,,2,4690.53,0,853.92
+"wooden furniture workshop, custom orders",furniture workshop,north,18511.82,14,1.038,0.0,1347.9,3,7972.01,0,1260.26
+"cabinet maker, deposits upfront",furniture workshop,highlands,15298.84,2,0.445,0.0,1459.72,0,12178.85,0,829.71
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,highlands,20974.11,3,0.182,1.0,1691.31,2,14114.51,0,2709.65
+mini mart near school gate,corner grocery,central,7595.09,2,,1.0,508.92,0,1626.24,0,145.48
+"cabinet maker, deposits upfront",furniture workshop,central,5114.67,14,0.544,1.0,330.48,5,4037.89,0,167.5
+"tailor shop, school uniforms and alterations",tailor shop,central,32619.68,5,0.752,0.0,,0,6196.66,1,992.73
+"noodle cart near bus station, cash only",street food stall,central,50794.49,10,,,,1,38745.14,0,8532.63
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,14547.63,7,0.865,1.0,527.23,1,5654.15,0,843.48
+"noodle cart near bus station, cash only",street food stall,south,27388.07,9,0.385,4.0,1912.49,0,17018.65,0,10312.49
+mobile top-up and accessories stand,phone accessories kiosk,central,17776.36,1,0.173,0.0,633.51,1,3793.8,1,492.4
+"street food stall at night market, 2 tables",street food stall,central,15114.74,11,0.834,1.0,558.53,3,8292.57,0,2503.79
+"tailor shop, school uniforms and alterations",tailor shop,south,15378.23,4,0.604,3.0,650.79,1,9621.87,1,4387.74
+"tailor shop, school uniforms and alterations",tailor shop,south,5448.31,10,0.527,2.0,299.0,2,1375.39,1,234.07
+barbershop plus kids cuts,hair salon,north,4716.69,6,0.158,2.0,287.63,3,1968.78,1,243.42
+roadside bike puncture and oil change point,motorbike repair shop,north,14895.4,3,0.02,1.0,1450.65,2,3047.78,0,267.44
+"cabinet maker, deposits upfront",furniture workshop,south,152756.77,2,,1.0,8455.78,0,60000.0,1,10942.02
+roadside bike puncture and oil change point,motorbike repair shop,south,27431.44,4,0.307,1.0,1743.75,2,10774.63,0,1152.69
+"wooden furniture workshop, custom orders",furniture workshop,central,119984.06,0,0.779,2.0,8816.69,3,40479.31,0,16080.64
+"half-hectare coffee plot, rain-fed, one harvest",smallholder coffee farm,north,44153.82,4,0.15,,2882.67,3,7141.78,0,1124.99
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,central,11995.91,0,0.088,1.0,992.29,4,5742.07,0,970.24
+"grilled skewers stand, weekend crowds",street food stall,central,80729.57,5,0.513,,4142.7,5,38233.0,0,10815.93
+"sewing shop with 3 machines, regulars",tailor shop,north,7719.55,11,,3.0,490.32,1,5578.85,0,1011.74
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,8103.02,9,0.338,4.0,346.23,2,2058.71,0,662.32
+"noodle cart near bus station, cash only",street food stall,highlands,3447.88,0,,1.0,,7,800.0,1,388.89
+"motorbike repair shop, 1 mechanic, spare parts shelf",motorbike repair shop,highlands,7297.72,9,0.553,,,2,3897.25,0,410.51
+"noodle cart near bus station, cash only",street food stall,central,15444.9,13,0.665,2.0,1414.27,1,3598.55,1,996.8
+"hair salon, 4 chairs, walk-ins",hair salon,central,17777.17,12,0.442,,1757.73,2,5798.74,0,408.3
+"grilled skewers stand, weekend crowds",street food stall,north,7642.56,9,0.252,,778.63,1,1574.99,0,454.06
+"noodle cart near bus station, cash only",street food stall,central,30578.42,6,,0.0,,0,8274.65,1,3507.46
+mobile top-up and accessories stand,phone accessories kiosk,central,21578.26,2,0.355,2.0,2075.97,1,12036.55,1,4030.83
+"sewing shop with 3 machines, regulars",tailor shop,south,3005.09,4,0.323,2.0,242.82,1,1639.85,0,265.78
+"family coffee garden, sun-dried beans",smallholder coffee farm,north,15755.6,4,0.748,3.0,,0,7896.65,1,3975.61
+"wooden furniture workshop, custom orders",furniture workshop,north,39651.06,10,0.068,2.0,3460.53,2,25754.82,0,2660.3
+mini mart near school gate,corner grocery,highlands,4987.11,1,0.663,1.0,281.14,2,2512.54,0,560.46
+"family coffee garden, sun-dried beans",smallholder coffee farm,highlands,14882.74,9,0.298,2.0,758.1,1,4156.2,0,560.49

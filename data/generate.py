@@ -85,7 +85,7 @@ def generate(n: int = 400, seed: int = 7) -> pd.DataFrame:
             + 0.45 * late
             - 0.16 * years
             - cashflow / 40000
-            + rng.normal(0, 0.2)
+            + rng.normal(0, 0.35)
         )
         # Free-text carries signal beyond the sector label: cash-only and
         # no-deposit businesses are riskier, regulars/deposits safer.

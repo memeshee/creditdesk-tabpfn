@@ -10,12 +10,28 @@ agent track + MCP-server track + formalize-a-new-problem track in one repo.
 
 ## Why TabPFN-3.5 is the core (not a garnish)
 
-- **Tiny data wins**: learning curve in `benchmark/run.py` shows TabPFN-3.5 beating
-  tuned XGBoost and logistic regression at 30–60 training rows on held-out AUC.
+- **Zero-pipeline parity**: `benchmark/run.py` (3 seeds, held-out AUC) puts
+  TabPFN-3.5 within noise of tuned XGBoost and scaled logistic regression at
+  every training size — while the baselines need median/mode imputation +
+  one-hot + scaling and TabPFN takes the raw table (free text + `NaN`) as-is:
+
+  | n_train | TabPFN-3.5 | + thinking | XGBoost | LogReg |
+  |---|---|---|---|---|
+  | 30 | 0.583 | 0.590 | 0.578 | 0.575 |
+  | 60 | 0.543 | 0.552 | 0.575 | 0.539 |
+  | 120 | 0.574 | — | 0.604 | 0.646 |
+  | 240 | 0.578 | — | 0.581 | 0.605 |
+
+  (mean AUC over seeds 7/21/42; stds ≈ 0.03–0.08 overlap everywhere — i.e. a
+  tie, where TabPFN pays no preprocessing tax. Full numbers + plot in
+  `results/`; regenerate with `python benchmark/run.py`.)
 - **Raw text in the table**: `business_description` ("noodle cart near bus station,
-  cash only") goes in uncleaned — 3.5's native text handling uses it.
-- **Zero training ops**: no pipeline, no tuning, ~seconds per decision via hosted API.
-- **Thinking mode**: `--thinking` flag spends extra compute on hard tables.
+  cash only") goes in uncleaned — 3.5's native text handling reads it, and the
+  data generator gives text signal beyond the sector label (see `data/generate.py`).
+- **Native missingness**: 15% holes in soft self-reported columns — TabPFN reads
+  `NaN` directly, baselines need imputation (see `sklearn_frame`).
+- **Thinking mode**: `--thinking` flag / `thinking` tool arg spends extra compute
+  on the thinnest tables (≈+0.01 AUC at n=30 here — parity, honestly reported).
 
 ## Quickstart
 
@@ -25,7 +41,21 @@ export TABPFN_TOKEN="<key from https://platform.priorlabs.ai/account>"
 python data/generate.py                      # seeded demo portfolio -> data/portfolio.csv
 python -m creditdesk.agent --applicant examples/applicant.json
 uvicorn app:app --port 8321                  # demo web UI
-python benchmark/run.py                      # TabPFN-3.5 vs XGBoost vs logreg
+python benchmark/run.py                      # 3-seed benchmark -> results/
+```
+
+Sample live output (real TabPFN-3.5 API call,120-row context):
+
+```json
+{
+  "applicant": "noodle cart near bus station, cash only",
+  "default_probability": 0.438,
+  "expected_loss_usd": 3174.61,
+  "decision": "DECLINE",
+  "rationale": ["2 late payments in 12m vs median 1",
+    "under 2 years in business — thin track record",
+    "sector 'street food stall' defaults at 43% vs 28% portfolio average"]
+}
 ```
 
 ## MCP server (for your own agent)
