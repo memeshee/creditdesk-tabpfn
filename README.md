@@ -6,7 +6,7 @@ missing values straight into **TabPFN-3.5** (Prior Labs hosted API) — out come
 a priced decision: approve, review-with-terms, or decline, with expected loss
 and a plain-language rationale.
 
-🎬 Demo video: [`demo.mp4`](demo.mp4) (64 s, narrated)
+🎬 Demo video: [https://youtu.be/aozQk9Uwqek](https://youtu.be/aozQk9Uwqek) (64 s, narrated)
 
 ## The problem
 
@@ -153,7 +153,7 @@ Judging criteria mapping:
 
 Submission compliance: public repo, Apache License 2.0 (`LICENSE`), description
 above is written so a third-party developer can comprehend and reproduce the
-project. Demo video in `demo.mp4` (build script: `video/make_slides.py`).
+project. Demo video: https://youtu.be/aozQk9Uwqek.
 
 ## Quickstart
 
@@ -180,7 +180,6 @@ python -m pytest tests/                       # live smoke test (needs token + q
 - `results/` — committed `benchmark.json` + `learning_curve.png`
 - `tests/test_smoke.py` — live end-to-end test (needs `TABPFN_TOKEN`)
 - `examples/` — sample applicant + MCP client config
-- `video/` — demo-video slide generator + voiceover; `demo.mp4` at root
 
 ## Caveats
 
