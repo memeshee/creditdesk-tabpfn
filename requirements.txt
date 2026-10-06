@@ -1,5 +1,5 @@
 tabpfn-client>=0.6
-mcp>=1.0
+mcp>=1.0,<2
 fastapi>=0.115
 uvicorn>=0.30
 pandas>=2.0
