@@ -1,0 +1,6 @@
+business_description,sector,region,annual_revenue_usd,years_in_business,debt_to_income,late_payments_12m,avg_monthly_cashflow_usd,employees,requested_loan_usd
+"hair salon, 4 chairs, walk-ins",hair salon,central,31719.07,9,0.203,,1441.53,0,9183.93
+"cabinet maker, deposits upfront",furniture workshop,central,21723.96,13,0.335,0.0,1344.22,1,14986.47
+"cabinet maker, deposits upfront",furniture workshop,north,14599.49,12,0.829,0.0,1115.59,0,11300.68
+barbershop plus kids cuts,hair salon,north,45889.79,2,0.447,3.0,1974.12,3,25936.33
+"hair salon, 4 chairs, walk-ins",hair salon,central,31719.07,9,0.203,,1441.53,0,9183.93

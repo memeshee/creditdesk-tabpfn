@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "creditdesk": {
+      "command": "python",
+      "args": ["creditdesk/mcp_server.py"],
+      "cwd": "/path/to/creditdesk-tabpfn",
+      "env": {
+        "TABPFN_TOKEN": "<key from https://platform.priorlabs.ai/account>"
+      }
+    }
+  }
+}
